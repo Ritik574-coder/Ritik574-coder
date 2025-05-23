@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Login & Sign Up | RitSky</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Fonts & Icons -->
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- SweetAlert (for stylish alerts) -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<style>
+* {
+    margin: 0; padding: 0; box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    height: 100vh;
+    background: linear-gradient(135deg, #1d1d2c, #090979, #1d1d2c);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 380px;
+    padding: 40px;
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    color: #fff;
+    animation: fadeIn 1s ease-in;
+}
+
+@keyframes fadeIn {
+    from {opacity: 0; transform: translateY(-20px);}
+    to {opacity: 1; transform: translateY(0);}
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.input-group {
+    position: relative;
+    margin-bottom: 20px;
+}
+.input-group input {
+    width: 100%;
+    padding: 12px 40px 12px 15px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    background: rgba(255,255,255,0.1);
+    color: #fff;
+    transition: 0.3s;
+}
+.input-group input:focus {
+    background: rgba(255,255,255,0.2);
+}
+.input-group i {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #00ffff;
+}
+
+.btn {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #00ffff, #007fff);
+    color: #000;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0 10px #00ffff;
+}
+
+.toggle-links {
+    text-align: center;
+    margin-top: 15px;
+}
+.toggle-links a {
+    color: #00ffff;
+    text-decoration: none;
+    font-weight: 500;
+}
+.toggle-links a:hover {
+    text-decoration: underline;
+}
+
+.forgot-password {
+    text-align: right;
+    margin-top: 10px;
+}
+.forgot-password a {
+    color: #00ffff;
+    text-decoration: none;
+}
+.forgot-password a:hover {
+    text-decoration: underline;
+}
+
+.form {
+    display: none;
+}
+.form.active {
+    display: block;
+}
+
+@media (max-width: 450px) {
+    .container { width: 90%; padding: 25px; }
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+    <form id="login-form" class="form active">
+        <h2>Login</h2>
+        <div class="input-group">
+            <input type="text" id="login-username" placeholder="Username" required>
+            <i class="fas fa-user"></i>
+        </div>
+        <div class="input-group">
+            <input type="password" id="login-password" placeholder="Password" required>
+            <i class="fas fa-lock"></i>
+        </div>
+        <button type="submit" class="btn">Login</button>
+        <div class="forgot-password">
+            <a href="#">Forgot Password?</a>
+        </div>
+        <div class="toggle-links">
+            Don't have an account? <a href="#" id="show-signup">Sign Up</a>
+        </div>
+    </form>
+
+    <form id="signup-form" class="form">
+        <h2>Sign Up</h2>
+        <div class="input-group">
+            <input type="text" id="signup-name" placeholder="Full Name" required>
+            <i class="fas fa-user"></i>
+        </div>
+        <div class="input-group">
+            <input type="email" id="signup-email" placeholder="Email" required>
+            <i class="fas fa-envelope"></i>
+        </div>
+        <div class="input-group">
+            <input type="password" id="signup-password" placeholder="Password" required>
+            <i class="fas fa-lock"></i>
+        </div>
+        <div class="input-group">
+            <input type="password" id="signup-confirm" placeholder="Confirm Password" required>
+            <i class="fas fa-lock"></i>
+        </div>
+        <button type="submit" class="btn">Sign Up</button>
+        <div class="toggle-links">
+            Already have an account? <a href="#" id="show-login">Login</a>
+        </div>
+    </form>
+</div>
+
+<script>
+const loginForm = document.getElementById('login-form');
+const signupForm = document.getElementById('signup-form');
+const showLogin = document.getElementById('show-login');
+const showSignup = document.getElementById('show-signup');
+
+showSignup.addEventListener('click', e => {
+    e.preventDefault();
+    loginForm.classList.remove('active');
+    signupForm.classList.add('active');
+});
+showLogin.addEventListener('click', e => {
+    e.preventDefault();
+    signupForm.classList.remove('active');
+    loginForm.classList.add('active');
+});
+
+// Login Form Submit
+loginForm.addEventListener('submit', e => {
+    e.preventDefault();
+    const username = document.getElementById('login-username').value.trim();
+    const password = document.getElementById('login-password').value.trim();
+    if(username && password) {
+        Swal.fire('Success!', 'Logged in successfully!', 'success');
+    } else {
+        Swal.fire('Error!', 'Please fill all fields.', 'error');
+    }
+});
+
+// Signup Form Submit
+signupForm.addEventListener('submit', e => {
+    e.preventDefault();
+    const name = document.getElementById('signup-name').value.trim();
+    const email = document.getElementById('signup-email').value.trim();
+    const password = document.getElementById('signup-password').value.trim();
+    const confirm = document.getElementById('signup-confirm').value.trim();
+
+    if(name && email && password && confirm) {
+        if(password === confirm) {
+            Swal.fire('Success!', 'Account created successfully!', 'success');
+        } else {
+            Swal.fire('Error!', 'Passwords do not match.', 'error');
+        }
+    } else {
+        Swal.fire('Error!', 'Please fill all fields.', 'error');
+    }
+});
+</script>
+
+</body>
+</html>
