@@ -22,7 +22,7 @@ export default {
   name: "Hrithik",
   company: "RitSky Global 🌍",
   passion: ["AI SaaS", "Export-Import", "Python", "Quantum Computing"],
-  goal: "To build a $25 Trillion company by 2035",
+  goal: "To build a company by 2035",
   motto: "Unleash Your Unstoppable 🚀"
 }
 
