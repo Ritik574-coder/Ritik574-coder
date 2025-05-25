@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ritik's Galactic README</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto+Mono&family=Exo+2:wght@600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background: linear-gradient(135deg, #0d0d2b 0%, #1e1e4e 100%);
+      color: #e0e0e0;
+      font-family: 'Roboto Mono', monospace;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+      position: relative;
+    }
+    /* Particle Background */
+    #particles-js {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px;
+      text-align: center;
+      position: relative;
+      z-index: 1;
+    }
+    h1 {
+      font-family: 'Exo 2', sans-serif;
+      font-size: 4em;
+      color: #00ffcc;
+      text-shadow: 0 0 20px #00ffcc, 0 0 40px #ff007a;
+      animation: neonGlow 1.5s ease-in-out infinite alternate;
+    }
+    .typing-svg {
+      margin: 30px 0;
+      filter: drop-shadow(0 0 15px rgba(0, 255, 204, 0.7));
+      transform: translateZ(0);
+    }
+    .badges {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin: 30px 0;
+      perspective: 1000px;
+    }
+    .badge {
+      transition: transform 0.4s ease, box-shadow 0.4s ease;
+      transform-style: preserve-3d;
+    }
+    .badge:hover {
+      transform: scale(1.15) rotateY(10deg);
+      box-shadow: 0 0 25px rgba(0, 255, 204, 0.8);
+    }
+    .about-section {
+      background: rgba(255, 255, 255, 0.08);
+      border-radius: 20px;
+      padding: 30px;
+      margin: 30px 0;
+      box-shadow: 0 0 40px rgba(0, 255, 204, 0.4);
+      animation: slideIn 1.2s ease-out;
+      backdrop-filter: blur(5px);
+    }
+    .code-block {
+      background: #1a1a2e;
+      padding: 25px;
+      border-radius: 12px;
+      text-align: left;
+      font-size: 1.2em;
+      color: #00ffcc;
+      overflow-x: auto;
+      box-shadow: inset 0 0 15px rgba(0, 255, 204, 0.3);
+      transition: transform 0.3s ease;
+    }
+    .code-block:hover {
+      transform: translateY(-5px);
+    }
+    .social-links {
+      margin: 30px 0;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+    }
+    .social-links a {
+      text-decoration: none;
+      color: #00ffcc;
+      font-size: 1.4em;
+      font-family: 'Orbitron', sans-serif;
+      padding: 10px 20px;
+      border: 2px solid #00ffcc;
+      border-radius: 25px;
+      transition: all 0.3s ease;
+    }
+    .social-links a:hover {
+      background: #ff007a;
+      color: #fff;
+      border-color: #ff007a;
+      box-shadow: 0 0 15px #ff007a;
+    }
+    .stats-section {
+      margin: 40px 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+    }
+    .stat-card {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 0 20px rgba(0, 255, 204, 0.3);
+      transition: transform 0.3s ease;
+    }
+    .stat-card:hover {
+      transform: translateY(-5px);
+    }
+    @keyframes neonGlow {
+      from { text-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc, 0 0 30px #ff007a; }
+      to { text-shadow: 0 0 20px #00ffcc, 0 0 40px #ff007a, 0 0 60px #ff007a; }
+    }
+    @keyframes slideIn {
+      from { transform: translateY(60px); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
+    @media (max-width: 768px) {
+      h1 { font-size: 2.8em; }
+      .container { padding: 20px; }
+      .badges { gap: 10px; }
+      .social-links a { font-size: 1.1em; padding: 8px 15px; }
+    }
+  </style>
+</head>
+<body>
+  <div id="particles-js"></div>
+  <div class="container">
+    <h1>👋 Ritik, The Cosmic Innovator</h1>
+    <img class="typing-svg" src="https://readme-typing-svg.demolab.com?font=Exo+2&size=32&pause=700¢er=true&vCenter=true&width=550&lines=Founder+of+RitSky+Global;AI+%26+Export+Business+Trailblazer;Mastering+Python%2C+SQL+%26+Quantum+Tech;Building+a+Global+Empire+by+2035" alt="Typing SVG" />
+
+    <div class="badges">
+      <img class="badge" src="https://img.shields.io/badge/Founder-RitSkyGlobal-00ffcc?style=for-the-badge&logo=target" />
+      <img class="badge" src="https://img.shields.io/badge/Python-Guru-3776AB?style=for-the-badge&logo=python" />
+      <img class="badge" src="https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql" />
+      <img class="badge" src="https://img.shields.io/badge/HTML-Mastermind-E34F26?style=for-the-badge&logo=html5" />
+      <img class="badge" src="https://img.shields.io/badge/CSS-Visionary-1572B6?style=for-the-badge&logo=css3" />
+    </div>
+
+    <div class="about-section">
+      <h2>🧠 About Me</h2>
+      <pre class="code-block">
+export const Ritik = {
+  name: "Ritik",
+  company: "RitSky Global 🌍",
+  passions: ["AI SaaS", "Export-Import", "Python", "Quantum Computing", "Data Science"],
+  goal: "Forge a global tech & trade empire by 2035",
+  motto: "Unleash the Unstoppable 🚀",
+  vision: "Revolutionize AI & global trade with RitSky Global"
+};
+      </pre>
+    </div>
+
+    <div class="stats-section">
+      <div class="stat-card">
+        <h3>🚀 Projects</h3>
+        <p>10+ Innovative Ventures</p>
+      </div>
+      <div class="stat-card">
+        <h3>💻 Code Commits</h3>
+        <p>5000+ Lines Written</p>
+      </div>
+      <div class="stat-card">
+        <h3>🌍 Reach</h3>
+        <p>Global Network</p>
+      </div>
+    </div>
+
+    <div class="social-links">
+      <a href="https://github.com/Ritik574-coder" target="_blank">GitHub</a>
+      <a href="https://linkedin.com/in/ritik" target="_blank">LinkedIn</a>
+      <a href="mailto:ritik@ritskyglobal.com">Email</a>
+      <a href="https://ritskyglobal.com" target="_blank">RitSky Global</a>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+  <script>
+    // Particle Background
+    particlesJS('particles-js', {
+      particles: {
+        number: { value: 80, density: { enable: true, value_area: 800 } },
+        color: { value: '#00ffcc' },
+        shape: { type: 'circle' },
+        opacity: { value: 0.5, random: true },
+        size: { value: 3, random: true },
+        line_linked: { enable: true, distance: 150, color: '#ff007a', opacity: 0.4, width: 1 },
+        move: { enable: true, speed: 2, direction: 'none', random: true }
+      },
+      interactivity: {
+        detect_on: 'canvas',
+        events: { onhover: { enable: true, mode: 'repulse' }, onclick: { enable: true, mode: 'push' } },
+        modes: { repulse: { distance: 100 }, push: { particles_nb: 4 } }
+      }
+    });
+
+    // Badge Interactivity
+    document.querySelectorAll('.badge').forEach(badge => {
+      badge.addEventListener('click', () => {
+        badge.style.transform = 'scale(1.2) rotateY(20deg)';
+        setTimeout(() => badge.style.transform = 'scale(1) rotateY(0)', 300);
+      });
+    });
+  </script>
+</body>
+</html>
