@@ -19,13 +19,7 @@
 ## 🧠 About Me
 ```html
 export default {
-  name: "Hrithik",
-  company: "RitSky Global 🌍",
-  passion: ["Entrepreneurship", "Data Engineering"],
-  goal: "To build a company by 2030",
-  motto: "Unleash Your Unstoppable 🚀"
-}
-
+  name: "Ritik
 <!--
 **Ritik574-coder/Ritik574-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
