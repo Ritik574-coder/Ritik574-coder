@@ -58,7 +58,7 @@ Currently, I'm diving deep into **Python, SQL, and advanced analytics** while tr
 Here are some highlights from my journey—each one a step toward mastering data storytelling:
 
 - **[Data Jobs Dashboard Overview](https://github.com/Ritik574-coder/data-analytics-portfolio/tree/main/Data-Jobs-Dashboard)**: Interactive Power BI viz analyzing 2024 job trends, salaries, and global hotspots. Perfect for aspiring data pros!
-- **[Sales Superstore Analysis](https://github.com/Ritik574-coder/data-analytics-portfolio/tree/main/Sales-Analysis-Dashboard)**: Tableau dashboard uncovering profit drivers and regional insights from retail data.
+- **[Sales Csutomer Analysi](https://github.com/Ritik574-coder/Bi-Project-/blob/c8ec9d6efe6943d96f4fb6d3939b8017a2c47e85/Salse%20and%20Customers%20Dashboard%20Project.twbx)**: Tableau dashboard uncovering profit drivers and regional insights from retail data.
 - **[HR Analytics Explorer](https://github.com/Ritik574-coder/data-analytics-portfolio/tree/main/HR-Analytics-Dashboard)**: SQL-powered BI report on employee turnover and hiring patterns.
 
 *Building one new dashboard every 3-4 days—stay tuned for more! 🚀*
