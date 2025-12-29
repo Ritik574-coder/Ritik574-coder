@@ -53,7 +53,7 @@ Currently, I'm diving deep into **Python, SQL, and advanced analytics** while tr
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Bi Projects
 
 Here are some highlights from my journey—each one a step toward mastering data storytelling:
 
@@ -65,11 +65,11 @@ Here are some highlights from my journey—each one a step toward mastering data
 
 ---
 
-## 📈 GitHub Activity
+<!-- Extra cool sections -->
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritik574-coder&theme=gruvbox&hide_border=true" alt="Ritik's Activity Graph" />
-</div>
+### 📊 Github Activity
+<!-- You can replace with your own activity graph repo if you want -->
+![Ritik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritik574-coder&theme=react-dark)
 
 ---
 
@@ -104,3 +104,5 @@ I'm always up for chatting about data, AI, or business ideas. Reach out!
 *Thanks for stopping by! Let's make data dreams a reality. 💫*  
 *Last Updated: December 17, 2025*  
 *Built with ❤️ from India*
+
+
