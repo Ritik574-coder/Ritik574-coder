@@ -20,11 +20,11 @@ I'm a **dedicated Data Engineering student** based in **India**, on a mission to
 
 Currently, I'm diving deep into **Python, SQL, and advanced analytics** while transitioning from student life to a full-fledged data engineer role. I thrive on creative problem-solving, whether it's designing interactive dashboards for job market trends or optimizing ETL pipelines. My goal? Unleash unstoppable dreams by making data accessible and empowering others in the tech ecosystem.
 
-- 🔭 **Currently working on**: A portfolio of interactive dashboards (check out my [Data Analytics Portfolio](https://github.com/Ritik574-coder/data-analytics-portfolio) repo!).
+- 🔭 **Currently working on**: A portfolio of interactive dashboards (check out my [Data Analytics Portfolio](https://github.com/Ritik574-coder/Bi-Project-) repo!).
 - 🌱 **Currently learning**: Machine Learning with PyTorch, advanced DAX in Power BI, and cloud data engineering (Azure/AWS).
 - 👯 **Looking to collaborate on**: Open-source data projects, AI-driven business tools, or export tech innovations.
 - 💬 **Ask me about**: Data visualization tips, Python scripting for beginners, or navigating the data job market.
-- 📫 **How to reach me**: ritik@example.com (or DM on LinkedIn!)
+- 📫 **How to reach me**: ritsky@zohomail.in (or DM on LinkedIn!)
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I've turned my love for music into data experiments—like analyzing Spotify trends to predict hit songs!
 
