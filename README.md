@@ -28,14 +28,44 @@ Currently, I'm diving deep into **Python, SQL, and advanced analytics** while tr
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I've turned my love for music into data experiments—like analyzing Spotify trends to predict hit songs!
 
+
+---
+
+<!-- Neon divider -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ritik574-coder&show_icons=true&theme=dark&hide_border=true&cache_seconds=3600" alt="Ritik's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Ritik574-coder&theme=dark&hide_border=true&border_radius=10&background=transparent&ring=green&fire=orange&currStreakNum=purple&currStreakLabel=yellow&sideNums=green&sideLabels=blue&dates=orange&dateFormat=W" alt="Ritik's Streak" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=60&section=header&text=&fontSize=0" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik574-coder&layout=compact&theme=dark&hide_border=true&cache_seconds=3600" alt="Top Languages" />
+<!-- Stats + Streak - Cyberpunk neon edition -->
+<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ritik574-coder&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=00ffea&icon_color=ff007a&text_color=ffffff&bg_color=0a001f&cache_seconds=7200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Ritik574-coder&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=00ffea&icon_color=ff007a&text_color=ffffff&bg_color=0a001f" width="48%" alt="Neon Stats" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ritik574-coder&theme=transparent&hide_border=true&border_radius=10&background=00000000&ring=00ffea&fire=ff007a&currStreakNum=00ffea&currStreakLabel=ff007a&sideNums=ffffff&sideLabels=00ffea&dates=aaaaaa" />
+    <img src="https://streak-stats.demolab.com?user=Ritik574-coder&theme=transparent&hide_border=true&border_radius=10&background=00000000&ring=00ffea&fire=ff007a&currStreakNum=00ffea&currStreakLabel=ff007a&sideNums=ffffff&sideLabels=00ffea&dates=aaaaaa" width="48%" alt="Neon Streak" />
+  </picture>
 </div>
+
+<!-- Top Languages - compact futuristic -->
+<div align="center" style="margin-top: 16px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik574-coder&layout=compact&theme=transparent&hide_border=true&title_color=00ffea&text_color=ffffff&bg_color=0a001f&langs_count=8&cache_seconds=7200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik574-coder&layout=compact&theme=transparent&hide_border=true&title_color=00ffea&text_color=ffffff&bg_color=0a001f&langs_count=8" alt="Neon Top Languages" />
+  </picture>
+</div>
+
+<!-- Cyberpunk glow line -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=header&text=&fontSize=0" />
+</div>
+
+<!-- Optional extra futuristic touch -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ritik574-coder&label=GRID+ACCESSED&color=00ffea&style=flat-square&labelColor=ff007a" alt="neon visitor counter" />
+</p>
 
 ---
 
@@ -104,60 +134,6 @@ I'm always up for chatting about data, AI, or business ideas. Reach out!
 *Thanks for stopping by! Let's make data dreams a reality. 💫*  
 *Last Updated: December 17, 2025*  
 *Built with ❤️ from India*
-
----
-
-<!-- Futuristic Header with neon glow effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFEA&center=true&vCenter=true&width=600&lines=SYSTEM+INITIALIZED...;RITIK574-CODER;NEON+NETRUNNER+ACTIVATED;> ACCESSING+THE+GRID..." />
-</h1>
-
-<!-- Neon divider -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=60&section=header&text=&fontSize=0" />
-</div>
-
-<!-- Stats + Streak - Cyberpunk neon edition -->
-<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ritik574-coder&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=00ffea&icon_color=ff007a&text_color=ffffff&bg_color=0a001f&cache_seconds=7200" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Ritik574-coder&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=00ffea&icon_color=ff007a&text_color=ffffff&bg_color=0a001f" width="48%" alt="Neon Stats" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ritik574-coder&theme=transparent&hide_border=true&border_radius=10&background=00000000&ring=00ffea&fire=ff007a&currStreakNum=00ffea&currStreakLabel=ff007a&sideNums=ffffff&sideLabels=00ffea&dates=aaaaaa" />
-    <img src="https://streak-stats.demolab.com?user=Ritik574-coder&theme=transparent&hide_border=true&border_radius=10&background=00000000&ring=00ffea&fire=ff007a&currStreakNum=00ffea&currStreakLabel=ff007a&sideNums=ffffff&sideLabels=00ffea&dates=aaaaaa" width="48%" alt="Neon Streak" />
-  </picture>
-</div>
-
-<!-- Top Languages - compact futuristic -->
-<div align="center" style="margin-top: 16px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik574-coder&layout=compact&theme=transparent&hide_border=true&title_color=00ffea&text_color=ffffff&bg_color=0a001f&langs_count=8&cache_seconds=7200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik574-coder&layout=compact&theme=transparent&hide_border=true&title_color=00ffea&text_color=ffffff&bg_color=0a001f&langs_count=8" alt="Neon Top Languages" />
-  </picture>
-</div>
-
-<!-- Cyberpunk glow line -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=header&text=&fontSize=0" />
-</div>
-
-<!-- Optional extra futuristic touch -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ritik574-coder&label=GRID+ACCESSED&color=00ffea&style=flat-square&labelColor=ff007a" alt="neon visitor counter" />
-</p>
-
----
-
-<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats-git-master-0xabdulkhalid.vercel.app/api?username=Ritik574-coder&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=00ffea&icon_color=ff007a&text_color=ffffff&bg_color=0a001f" width="48%" alt="Neon Stats" />
-  <img src="https://github-readme-stats-git-master-0xabdulkhalid.vercel.app/api/top-langs/?username=Ritik574-coder&layout=compact&theme=transparent&hide_border=true&title_color=00ffea&text_color=ffffff&bg_color=0a001f&langs_count=8" alt="Neon Top Langs" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats-git-master-0xabdulkhalid.vercel.app/?user=Ritik574-coder&theme=transparent&hide_border=true&border_radius=10&ring=00ffea&fire=ff007a&currStreakNum=00ffea&currStreakLabel=ff007a&sideNums=ffffff&sideLabels=00ffea&dates=aaaaaa" width="60%" alt="Neon Streak" />
-</div>
 
 ---
 
