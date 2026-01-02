@@ -90,6 +90,7 @@ Here are some highlights from my journey—each one a step toward mastering data
 - **[Sales Csutomer Analysi](https://github.com/Ritik574-coder/Bi-Project-/tree/main/Sales%20%26%20Customers%20Dashboard%20overview)**: Tableau dashboard uncovering profit drivers and regional insights from retail data.
 - **[HR Analytics Explorer](https://github.com/Ritik574-coder/Bi-Project-/tree/main/HR%20Analytics%20Dashboard)**: SQL-powered BI report on employee turnover and hiring patterns.
 - **[Data Jobs Dashboard Overview](https://github.com/Ritik574-coder/Bi-Project-/tree/main/Data%20Job%20Dashboard%20Overview)**: Interactive Power BI viz analyzing 2024 job trends, salaries, and global hotspots.!
+- **[ATM Analytics Dashboard](https://github.com/Ritik574-coder/Bi-Project-/tree/main/ATM%20Analytics%20Dashboard)**:  a dynamic Power BI tool built to supercharge ATM , banking operations and financial insights.
   
 *Building one new dashboard every 3-4 days—stay tuned for more! 🚀*
 
