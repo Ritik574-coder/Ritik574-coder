@@ -73,7 +73,7 @@ Currently, I'm diving deep into **Python, SQL, and advanced analytics** while tr
 
 | Category          | Technologies                          |
 |-------------------|---------------------------------------|
-| **Languages**     | Python, SQL, JSON , HTML              |
+| **Languages**     | Python, SQL, JSON ,NoSQL               |
 | **Databases**     | PostgreSQL, SQL Server                     |
 | **BI Tools**      | Power BI, Tableau                     |
 | **Data Engineering** | ETL (Pandas, NumPy), DAX Measures   |
