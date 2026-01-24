@@ -100,9 +100,12 @@ Here are some highlights from my journey—each one a step toward mastering data
 
 ### 📊 Github Activity
 <!-- You can replace with your own activity graph repo if you want -->
-![Ritik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ritik574-coder&theme=react-dark)
-
 ---
+
+<div align="center">
+  <h3>🚀 Coding Activity Metrics</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritik574-coder&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="Ritik's Activity Graph" />
+</div>
 
 ## 🤝 Let's Connect!
 
