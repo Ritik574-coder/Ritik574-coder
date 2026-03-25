@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hey+there%2C+I'm+Ritik+Kumar+%F0%9F%91%8B;Data+Engineer+%7C+AI+Innovator+%7C+Global+Entrepreneur" alt="Header" />
 </h1>
-
+ 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=700&color=00FFEA&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+into+Strategic+Intelligence;Building+Scalable+ETL+Pipelines+%26+Cloud+Architectures;Founder+%40+RitSky+Global+%7C+Empowering+Export+Innovation;From+Patna+to+Global+Tech+Communities;Python+%7C+SQL+%7C+Azure+%7C+Power+BI+Specialist" alt="Typing Animation" />
 </div>
