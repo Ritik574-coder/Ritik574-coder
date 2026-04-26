@@ -28,50 +28,6 @@
 
 ---
 
-## 🎯 Professional Summary
-
-```python
-class RitikKumar:
-    def __init__(self):
-        self.role = "Aspiring Data Engineer & AI Innovator"
-        self.location = "📍 Patna, Bihar, India"
-        self.company = "RitSky Global (Founder & CEO)"
-        self.experience = "2+ years in data analytics & engineering"
-        self.education = "Data Engineering Student"
-        
-    def current_focus(self):
-        return {
-            "learning": ["Azure Data Engineering", "Apache Airflow", "PyTorch", "Databricks"],
-            "building": ["Scalable ETL Pipelines", "Real-time Analytics Dashboards", "AI-Powered Export Tools"],
-            "exploring": ["MLOps", "Data Mesh Architecture", "Streaming Analytics with Kafka"],
-            "certifying": ["Microsoft Azure Data Engineer Associate", "Google Cloud Professional Data Engineer"]
-        }
-    
-    def expertise(self):
-        return {
-            "data_engineering": ["ETL/ELT", "Data Warehousing", "Pipeline Orchestration", "Data Modeling"],
-            "analytics": ["Power BI", "Tableau", "DAX", "Advanced SQL", "Statistical Analysis"],
-            "programming": ["Python (Pandas, NumPy)", "SQL/T-SQL", "PySpark", "JavaScript"],
-            "cloud_platforms": ["Azure (Synapse, Data Factory)", "AWS (Redshift, Glue)", "Databricks"],
-            "databases": ["PostgreSQL", "SQL Server", "MongoDB", "Snowflake (learning)"],
-            "tools": ["Git", "Docker", "Jupyter", "VS Code", "Azure DevOps"]
-        }
-    
-    def vision(self):
-        return """
-        Empowering global businesses through data-driven insights and 
-        AI-powered solutions. Building bridges between raw data and 
-        strategic decision-making while democratizing access to 
-        advanced analytics tools for emerging markets.
-        """
-
-# Initialize
-ritik = RitikKumar()
-print(f"🚀 Mission: {ritik.vision()}")
-```
-
----
-
 ## 🌟 About Me
 
 I'm **Ritik Kumar**, a passionate **Data Engineering student** and the **Founder of RitSky Global**, based in **Patna, India**. With over **2 years** of hands-on experience in coding, data visualization, and analytics, I specialize in transforming complex datasets into actionable business intelligence.
