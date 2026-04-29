@@ -178,350 +178,317 @@ When I'm not wrangling data or optimizing queries, you'll find me:
 
 ---
 
-## 🛠️ Technology Stack & Expertise
+## 🛠️ Technology Stack Learning & Expertise
 
 <div align="center">
 
-### 💾 Core Technologies
+### 💾 Core Technologies Learning
 
 </div>
 
 ---
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!-- ██                  SECTION 01 · LANGUAGES                         ██ -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## `⟨ 01 ⟩` &nbsp; Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,bash,postgres&theme=dark&perline=5" height="52" />
-
-<br/><br/>
-
-| Language | Level | Expertise |
-|:---:|:---:|:---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | `████████████ 95%` | Data pipelines, ML, automation, scripting |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | `███████████░ 92%` | Complex queries, optimization, stored procs |
-| ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | `██████████░░ 85%` | MSSQL-specific procedures, triggers, CTEs |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | `█████████░░░ 78%` | Node.js, async patterns, REST APIs |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | `████████░░░░ 72%` | Typed interfaces, generics, decorators |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) | `█████████░░░ 80%` | Shell scripting, cron, system automation |
-
 </div>
-
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!-- ██              SECTION 02 · DATA ENGINEERING                       ██ -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- 01 · PROGRAMMING & QUERY LANGUAGES                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `⟨ 02 ⟩` &nbsp; Data Engineering & ETL
+## `⟨ 01 ⟩` Programming & Query Languages
+##### Core building blocks of every data solution.
 
-<img src="https://skillicons.dev/icons?i=airflow,spark,kafka,docker,kubernetes&theme=dark&perline=5" height="52" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,r&theme=dark" height="60" />
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /><br/>
-<sub><b>DAG orchestration · TaskFlow API · Dynamic pipelines</b></sub>
-</td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" /><br/>
-<sub><b>Lakehouse · Delta Live Tables · Unity Catalog</b></sub>
-</td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /><br/>
-<sub><b>PySpark · Streaming · GraphX · MLlib</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /><br/>
-<sub><b>Transformation · Tests · Lineage · Docs</b></sub>
-</td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/Luigi-006400?style=for-the-badge&logo=python&logoColor=white" /><br/>
-<sub><b>Task dependencies · Workflow management</b></sub>
-</td>
-<td align="center" width="180">
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /><br/>
-<sub><b>Streaming · Event sourcing · Connectors</b></sub>
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 </div>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!-- ██             SECTION 03 · DATABASES & WAREHOUSES                 ██ -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- 02 · DATA PROCESSING ENGINES                              -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `⟨ 03 ⟩` &nbsp; Databases & Data Warehouses
+## `⟨ 02 ⟩` Data Processing Engines
+##### Where actual computation happens.
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark&perline=4" height="52" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark" height="60" />
 
 <br/><br/>
 
-```
-╔══════════════╦══════════════╦══════════════╦══════════════╦══════════════╦══════════════╗
-║  PostgreSQL  ║  SQL Server  ║   MongoDB    ║    MySQL     ║    Redis     ║  Snowflake   ║
-╠══════════════╬══════════════╬══════════════╬══════════════╬══════════════╬══════════════╣
-║  Relational  ║  Enterprise  ║  Document    ║  Relational  ║  In-Memory   ║  Cloud DW    ║
-║  ACID+MVCC   ║  T-SQL/SSRS  ║  NoSQL/Atlas ║  InnoDB      ║  Cache/Queue ║  Clustering  ║
-║   ★★★★★      ║   ★★★★☆      ║   ★★★★☆      ║   ★★★★☆      ║   ★★★★☆      ║   ★★★★☆      ║
-╚══════════════╩══════════════╩══════════════╩══════════════╩══════════════╩══════════════╝
-```
+| ⚙️ Batch Processing | 🌊 Stream Processing |
+|:---:|:---:|
+| ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |
+| `PySpark · SQL · MLlib · Streaming` | `Topics · Consumers · Connectors · Streams` |
 
 </div>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!-- ██              SECTION 04 · CLOUD PLATFORMS                        ██ -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- 03 · DATA WAREHOUSES + PYTHON LIBRARIES                   -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `⟨ 04 ⟩` &nbsp; Cloud Platforms & Services
+## `⟨ 03 ⟩` Data Warehouses & Python Libraries
+##### Structured, optimized for analytics queries.
 
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp&theme=dark&perline=3" height="52" />
+<br/>
+
+### ❄️ Analytics Storage
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+<br/>
+
+### 🐍 Python Libraries
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" />
 
 <br/><br/>
-
-<table>
-<tr>
-<td align="center">
-
-### ☁️ Microsoft Azure
-`Primary Cloud Platform`
-
-![Azure](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Blob](https://img.shields.io/badge/Blob_Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-</td>
-<td align="center">
-
-### 🌐 Amazon Web Services
-`Secondary Platform`
-
-![S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</td>
-<td align="center">
-
-### 🔶 Google Cloud
-`Tertiary Platform`
-
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GCS](https://img.shields.io/badge/GCS-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!-- ██          SECTION 05 · ANALYTICS & BUSINESS INTELLIGENCE         ██ -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## `⟨ 05 ⟩` &nbsp; Analytics & Business Intelligence
-
-<br/>
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-<br/><br/>
-
-```
-  EXPERTISE RADAR
-  ┌────────────────────────────────────────────────────────┐
-  │                    Power BI ██████████ 90%             │
-  │                      Tableau █████████ 85%             │
-  │                       Excel ██████████ 88%             │
-  │                      Looker ███████░░░ 72%             │
-  │                   Metabase  ███████░░░ 70%             │
-  └────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<br/>
-
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!-- ██              SECTION 06 · MACHINE LEARNING & AI                  ██ -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-## `⟨ 06 ⟩` &nbsp; Machine Learning & AI
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,fastapi&theme=dark&perline=5" height="52" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="160">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-`Deep Learning`<br/>`Neural Networks`<br/>`Custom Layers`
-
-</td>
-<td align="center" width="160">
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-`Classical ML`<br/>`Pipelines`<br/>`Model Selection`
-
-</td>
-<td align="center" width="160">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-`Production ML`<br/>`TFX · Serving`<br/>`TF Lite`
-
-</td>
-<td align="center" width="160">
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-`Data Wrangling`<br/>`Time Series`<br/>`Merges / Joins`
-
-</td>
-</tr>
-<tr>
-<td align="center" width="160">
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-`Linear Algebra`<br/>`Vectorization`<br/>`FFT · Stats`
-
-</td>
-<td align="center" width="160">
-
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-`Rapid Prototyping`<br/>`Transfer Learning`<br/>`Callbacks`
-
-</td>
-<td align="center" width="160">
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-`Experiment Tracking`<br/>`Model Registry`<br/>`Serving`
-
-</td>
-<td align="center" width="160">
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-`Transformers`<br/>`Fine-Tuning`<br/>`Inference API`
-
-</td>
-</tr>
-</table>
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
+![boto3](https://img.shields.io/badge/boto3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!-- ██                SECTION 07 · DEVOPS & TOOLS                      ██ -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- 04 · DATA LAKES & STORAGE                                 -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `⟨ 07 ⟩` &nbsp; DevOps & Tools
+## `⟨ 04 ⟩` Data Lakes & Storage
+##### Raw + semi-structured storage at scale.
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,vscode,linux,terraform&theme=dark&perline=8" height="52" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" height="60" />
 
 <br/><br/>
 
-```bash
-# ─────────────────── DEPLOYMENT STACK ────────────────────────
-$ docker build -t myapp:latest .                      ✓ Docker
-$ kubectl apply -f deployment.yaml --namespace prod   ✓ Kubernetes  
-$ jenkins trigger --job data-pipeline --env prod      ✓ Jenkins CI/CD
-$ terraform plan -out=tfplan && terraform apply       ✓ Infrastructure
-$ git flow release start v2.1.0                       ✓ Git Flow
-# ─────────────────────────────────────────────────────────────
-```
+| ☁️ Object Storage | 🏠 Lakehouse Layer |
+|:---:|:---:|
+| ![Amazon S3](https://img.shields.io/badge/Amazon_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white) | ![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white) |
+| ![Azure Data Lake Storage](https://img.shields.io/badge/Azure_Data_Lake_Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-00BFFF?style=for-the-badge&logo=apache&logoColor=white) |
+| ![Google Cloud Storage](https://img.shields.io/badge/Google_Cloud_Storage-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) | ![Apache Hudi](https://img.shields.io/badge/Apache_Hudi-FF4500?style=for-the-badge&logo=apache&logoColor=white) |
 
 </div>
 
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 <br/>
 
-<!-- ████████████████████████████████████████████████████████████████████ -->
-<!-- ██             SECTION 08 · VISUALIZATION & REPORTING               ██ -->
-<!-- ████████████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- 05 · ETL / ELT TOOLS                                      -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## `⟨ 08 ⟩` &nbsp; Visualization & Reporting
+## `⟨ 05 ⟩` ETL / ELT Tools — Pipelines
+##### Moving & transforming data across systems.
 
 <br/>
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+| 🔓 Open-Source | ☁️ Managed / SaaS |
+|:---:|:---:|
+| ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) | ![Fivetran](https://img.shields.io/badge/Fivetran-0073E6?style=for-the-badge&logo=fivetran&logoColor=white) |
+| ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) | ![Stitch](https://img.shields.io/badge/Stitch-5C5BD4?style=for-the-badge&logo=stitch&logoColor=white) |
+| | ![Matillion](https://img.shields.io/badge/Matillion-00C176?style=for-the-badge&logo=matillion&logoColor=white) |
 
 </div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- 06 · DATABASES                                            -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `⟨ 06 ⟩` Databases
+##### Relational OLTP & NoSQL storage.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" height="60" />
+
+<br/><br/>
+
+| 🗄️ Relational — OLTP | 🌿 NoSQL |
+|:---:|:---:|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white) |
+| ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- 07 · ORCHESTRATION & SCHEDULING                           -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `⟨ 07 ⟩` Orchestration & Scheduling
+##### Pipeline control layer — manage dependencies & runs.
+
+<br/>
+
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-592E87?style=for-the-badge&logo=dagster&logoColor=white)
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- 08 · DATA TRANSFORMATION & MODELING                       -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `⟨ 08 ⟩` Data Transformation & Modeling
+
+<br/>
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- 09 · DATA QUALITY & OBSERVABILITY                         -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `⟨ 09 ⟩` Data Quality & Observability
+##### Trust your data pipeline — catch issues early.
+
+<br/>
+
+![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-00C2C7?style=for-the-badge&logo=data&logoColor=white)
+![Soda](https://img.shields.io/badge/Soda-F5A623?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- 10 · CONTAINERIZATION & DEVOPS                            -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `⟨ 10 ⟩` Containerization & DevOps
+##### Build once, run anywhere — reliably.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" height="60" />
+
+<br/><br/>
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- 11 · CLOUD PLATFORMS                                      -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `⟨ 11 ⟩` Cloud Platforms
+##### Scale infinitely — deploy globally.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" height="60" />
+
+<br/><br/>
+
+![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!-- 12 · BI & VISUALIZATION                                   -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `⟨ 12 ⟩` BI & Visualization
+##### Turn data into decisions.
+
+<br/>
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ---
 
