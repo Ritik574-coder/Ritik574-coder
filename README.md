@@ -1366,28 +1366,6 @@ Special thanks to:
 | [SQL-data-Warehouse-Project](https://github.com/Ritik574-coder/SQL-data-Warehouse-Project) | 🏗️ Modern data warehouse | TSQL | ⭐ 1 | 🍴 0 | Jan 2, 2026 |
 | [Vibe-Coding-Project](https://github.com/Ritik574-coder/Vibe-Coding-Project) | 💻 JavaScript experiments | JS | - | - | Jan 22, 2026 |
 
-#### 📚 Learning & Forked Projects (13)
-
-| Repository | Description | Lang | Origin | Updated |
-|-----------|-------------|------|--------|---------|
-| [databricks_bootcamp_2026](https://github.com/Ritik574-coder/databricks_bootcamp_2026) | Databricks fundamentals | Jupyter | 🔱 Fork | Jan 17, 2026 |
-| [learning-python-3980343](https://github.com/Ritik574-coder/learning-python-3980343) | Python fundamentals course | Python | 🔱 Fork | Feb 21, 2025 |
-| [pandas-essential-training](https://github.com/Ritik574-coder/pandas-essential-training-new-dataset-dupe-4493047) | Pandas comprehensive | Jupyter | 🔱 Fork | Mar 25, 2025 |
-| [end-to-end-data-engineering](https://github.com/Ritik574-coder/end-to-end-data-engineering-project-4413618) | Complete ETL pipeline | Python | 🔱 Fork | Nov 9, 2023 |
-| [microsoft-sql-server-samples](https://github.com/Ritik574-coder/microsoft-sql-server-samples) | SQL Server samples | Other | 🔱 Fork | Sep 15, 2023 |
-| [Advanced-Power-BI](https://github.com/Ritik574-coder/Advanced-Power-BI) | Power BI advanced | - | 🔱 Fork | Aug 24, 2022 |
-| [json-essential-training](https://github.com/Ritik574-coder/json-essential-training-2887317) | JSON & APIs | JS | 🔱 Fork | Jan 21, 2024 |
-| [fundamentals-of-vibe-coding](https://github.com/Ritik574-coder/fundamentals-of-vibe-coding-6060046) | TypeScript patterns | TS | 🔱 Fork | Apr 29, 2025 |
-| [python-learning-](https://github.com/Ritik574-coder/python-learning-) | Python practice | Python | Original | May 28, 2025 |
-| [Bi-Project](https://github.com/Ritik574-coder/Bi-Project) | BI experiments | - | Original | Dec 17, 2025 |
-| [hrithik-awesome-projects](https://github.com/Ritik574-coder/hrithik-awesome-projects) | Project archive | - | Original | May 24, 2025 |
-| [githubfoundations](https://github.com/Ritik574-coder/githubfoundations) | GitHub best practices | - | 🔱 Fork | Aug 28, 2025 |
-| [Commination-Public_Speaking](https://github.com/Ritik574-coder/Commination-Public_Speaking_Foundations) | Public speaking | - | Original | Jan 7, 2026 |
-
-**Legend**: ⭐ Stars | 🍴 Forks | 🔱 Forked Repository | Original = Created by me
-
-</details>
-
 ---
 
 <div align="center">
