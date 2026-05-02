@@ -947,16 +947,6 @@ I'm actively working to contribute more to open-source projects, particularly in
 - 📈 BI visualization templates
 - 📚 Educational resources and documentation
 
-### 🎯 2026 Contribution Goals
-
-| Goal | Target | Progress |
-|------|--------|----------|
-| Pull Requests to Major Projects | 10+ | 🔄 0/10 |
-| Documentation Improvements | 20+ | 🔄 2/20 |
-| Bug Reports & Issues | 15+ | 🔄 3/15 |
-| Original Open-Source Projects | 3 | 🔄 1/3 |
-| Code Reviews | 25+ | 🔄 5/25 |
-
 ---
 
 ## 🎨 Featured Visualizations & Dashboards
@@ -1314,29 +1304,8 @@ From Patna to the world: Building solutions that bridge local expertise with glo
 Special thanks to:
 - 🌟 **Open Source Community** - For countless learning resources
 - 👨‍🏫 **Mentors & Teachers** - Who guided my journey
-- 🤝 **LinkedIn Learning & Udemy Instructors** - For quality education
-- 💼 **RitSky Global Clients** - For trusting me with their data
+- 🤝 **LinkedIn Learning** - For quality education
 - 👥 **GitHub Community** - For collaboration and feedback
-- 🏠 **Family & Friends** - For unwavering support
-
----
-
-## 📊 GitHub Wrapped 2026
-
-<div align="center">
-
-### 🎉 Year in Review
-
-| Metric | 2026 Goal | Current |
-|--------|-----------|---------|
-| Commits | 500+ | 🔄 On Track |
-| PRs | 50+ | 🔄 In Progress |
-| New Repos | 10 | 🔄 Building |
-| Stars Earned | 100+ | 🔄 Growing |
-| Contributors | 20+ | 🔄 Expanding |
-| Languages | 10+ | ✅ Achieved |
-
-</div>
 
 ---
 
