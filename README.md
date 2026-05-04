@@ -155,7 +155,7 @@ When I'm not wrangling data or optimizing queries, you'll find me:
 
 ### 🎖️ Achievement Showcase
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ritik574-coder&theme=radical&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" alt="Trophies" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ritik574-coder&theme=radical&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,PullRequest,Issues,Reviews" alt="Trophies" width="90%"/>
 
 </div>
 
