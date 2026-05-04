@@ -27,19 +27,94 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling" alt="Wave Animation"/>
 
 ---
+<!-- ░░░░░░░░░░░░░░░░  FUN ZONE / PERSONALITY  ░░░░░░░░░░░░░░░░ -->
 
-## 🌟 About Me
+## 🎭 &nbsp;About Me
 
-I'm **Ritik Kumar**, a passionate **Data Engineering student** and the **Founder of RitSky Global**, based in **Patna, India**. With over **2 years** of hands-on experience in coding, data visualization, and analytics, I specialize in transforming complex datasets into actionable business intelligence.
+<div align="center">
 
-### 🎓 My Journey
+<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-From late-night debugging sessions to architecting enterprise-grade ETL pipelines, my journey has been fueled by curiosity and a relentless drive to solve real-world problems through data. I've built my expertise through:
+</div>
 
-- **Academic Excellence**: Rigorous coursework in data structures, algorithms, database systems, and machine learning
-- **Practical Experience**: Developed 20+ repositories covering everything from foundational Python to advanced data warehousing
-- **Entrepreneurial Spirit**: Founded RitSky Global to deliver AI-powered export analytics and data solutions
-- **Continuous Learning**: Completed multiple certifications and courses in cloud computing, BI tools, and data engineering
+```bash
+$ whoami --personality
+
+Name        : Ritik Kumar
+Role        : Data Engineering Learner
+Location    : Patna, India
+Experience  : ~2 years (hands-on practice)
+
+Summary:
+- Coding, data analysis, aur basic data visualization me consistent practice
+- Focus: strong foundation in data engineering concepts
+
+---
+
+$ cat journey.log
+
+[INFO] Learning Path
+- Data Structures & Algorithms
+- Database Systems (SQL)
+- Basic Machine Learning concepts
+
+[INFO] Practical Work
+- 20+ repositories built 
+- Hands-on experimentation with datasets and queries
+
+[INFO] Initiative
+- RitSky Global (early-stage, learning-focused project)
+- Focus: data & analytics use cases explore karna
+
+[INFO] Current Focus
+- Cloud fundamentals
+- BI tools
+- Data engineering workflows
+
+---
+
+$ echo "mindset"
+
+- Self-learning driven
+- Consistency over hype
+- Learning by building
+
+$ exit 
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░  RANDOM QUOTE + WISDOM  ░░░░░░░░░░░░░░░░ -->
+
+## 💬 &nbsp;Dev Wisdom — Refreshes Every Visit
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> ### *"Data is the new oil — but like oil, it's only valuable when refined.*
+> ### *I'm here to be the refinery."*
+>
+> **— Ritik Kumar &nbsp;|&nbsp; Founder, RitSky Global &nbsp;|&nbsp; Patna, India 🇮🇳**
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
+
+<br/>
+
 
 ### 💡 What Drives Me
 
