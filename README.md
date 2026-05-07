@@ -27,59 +27,26 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling" alt="Wave Animation"/>
 
 ---
-<!-- ░░░░░░░░░░░░░░░░  FUN ZONE / PERSONALITY  ░░░░░░░░░░░░░░░░ -->
 
 ## 🎭 &nbsp;About Me
 
 <div align="center">
 
-<img align="right" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="370" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 </div>
 
 ```bash
-$ whoami --personality
+$ cat description.md
 
-Name        : Ritik Kumar
-Role        : Data Engineering Learner
-Location    : Patna, India
-Experience  : ~2 years (hands-on practice)
+Ritik Kumar is a self-learning Data Engineering learner
+from India,focused on building strong foundations
+in data systems,analytics,and cloud technologies.
 
-Summary:
-- Coding, data analysis, aur basic data visualization me consistent practice
-- Focus: strong foundation in data engineering concepts
+His work primarily revolves around Python, SQL, Power BI,
+PostgreSQL, and modern data engineering workflows.
 
----
-
-$ cat journey.log
-
-[INFO] Learning Path
-- Data Structures & Algorithms
-- Database Systems (SQL)
-- Basic Machine Learning concepts
-
-[INFO] Practical Work
-- 20+ repositories built 
-- Hands-on experimentation with datasets and queries
-
-[INFO] Initiative
-- RitSky Global (early-stage, learning-focused project)
-- Focus: data & analytics use cases explore karna
-
-[INFO] Current Focus
-- Cloud fundamentals
-- BI tools
-- Data engineering workflows
-
----
-
-$ echo "mindset"
-
-- Self-learning driven
-- Consistency over hype
-- Learning by building
-
-$ exit 
+$ exit
 ```
 
 <br/>
@@ -87,8 +54,6 @@ $ exit
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
 
 <br/>
-
-<!-- ░░░░░░░░░░░░░░░░  RANDOM QUOTE + WISDOM  ░░░░░░░░░░░░░░░░ -->
 
 ## 💬 &nbsp;Dev Wisdom — Refreshes Every Visit
 
@@ -100,79 +65,9 @@ $ exit
 
 <br/>
 
-<div align="center">
-
-> ### *"Data is the new oil — but like oil, it's only valuable when refined.*
-> ### *I'm here to be the refinery."*
->
-> **— Ritik Kumar &nbsp;|&nbsp; Founder, RitSky Global &nbsp;|&nbsp; Patna, India 🇮🇳**
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
 
 <br/>
-
-
-### 💡 What Drives Me
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🔥 Current Projects
-- Building production-ready ETL pipelines with Airflow
-- Developing interactive Power BI dashboards for export analytics
-- Creating open-source Python libraries for data transformation
-- Implementing ML models for predictive business insights
-
-</td>
-<td width="50%">
-
-#### 🎯 2026 Goals
-- ✅ Obtain Azure Data Engineer Associate certification
-- ✅ Contribute to 5+ major open-source data projects
-- ✅ Launch RitSky Global's flagship analytics platform
-- ✅ Publish technical blog series on Medium/Dev.to
-- ✅ Mentor 10+ aspiring data engineers
-
-</td>
-</tr>
-</table>
-
-### 🌈 Philosophy & Values
-
-> **"Data isn't just numbers—it's the language of modern innovation. My mission is to make this language accessible, ethical, and transformative for everyone."**
-
-I prioritize:
-- **🔒 Data Ethics**: Privacy-first approach and responsible AI practices
-- **🌍 Open Source**: Giving back to the community that taught me
-- **📚 Continuous Learning**: Staying ahead in a rapidly evolving field
-- **🤝 Collaboration**: Building solutions together, not in silos
-- **♻️ Sustainability**: Writing efficient, maintainable code that scales
-
-<details>
-<summary><b>🎭 Beyond the Code</b></summary>
-<br>
-
-When I'm not wrangling data or optimizing queries, you'll find me:
-
-- 🎵 Analyzing Spotify trends and building music recommendation systems
-- 📖 Reading about the latest in distributed systems and cloud architecture
-- 🎮 Exploring game theory and applying it to business strategy
-- ✍️ Writing technical articles and creating educational content
-- 🌱 Contributing to environmental data projects and sustainability initiatives
-- 🏃 Running, meditating, and maintaining work-life balance
-
-**Fun Fact**: I once built a data pipeline that analyzes cricket statistics in real-time during IPL matches—because cricket + data = ❤️
-
-</details>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" alt="Divider"/>
 
 ## 📊 GitHub Analytics & Performance Metrics
 
@@ -251,8 +146,6 @@ When I'm not wrangling data or optimizing queries, you'll find me:
 
 </div>
 
-<!-- ░░░░░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░░░░░ -->
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> &nbsp;Tech Universe
 
 <div align="center">
@@ -273,7 +166,6 @@ When I'm not wrangling data or optimizing queries, you'll find me:
 
 <br/>
 
-<!-- FULL BADGES GRID -->
 <div align="center">
 
 <table>
@@ -471,8 +363,6 @@ A comprehensive collection of Power BI and Tableau dashboards delivering actiona
 - 🌍 Multi-dimensional analysis
 - 🔄 Automated data refresh pipelines
 
-**Impact**: Enabled data-driven decision making for 5+ client projects
-
 ![Stars](https://img.shields.io/github/stars/Ritik574-coder/Bi-Project-?style=social)
 ![Last Updated](https://img.shields.io/github/last-commit/Ritik574-coder/Bi-Project-?label=Updated&color=success)
 
@@ -490,8 +380,6 @@ Structured curriculum from basics to advanced concepts, specifically tailored fo
 - 🎓 Real-world data projects
 - 🧪 Unit tests & best practices
 - 📖 Comprehensive documentation
-
-**Impact**: Educational resource for aspiring data professionals
 
 ![Stars](https://img.shields.io/github/stars/Ritik574-coder/python-foundations-to-mastery?style=social)
 ![Last Updated](https://img.shields.io/github/last-commit/Ritik574-coder/python-foundations-to-mastery?label=Updated&color=success)
@@ -513,8 +401,6 @@ Enterprise-grade data warehouse implementing dimensional modeling, ETL workflows
 - 📊 Historical data tracking (SCD Type 2)
 - 🔐 Row-level security implementation
 
-**Impact**: Scalable foundation for enterprise analytics
-
 ![Stars](https://img.shields.io/github/stars/Ritik574-coder/SQL-data-Warehouse-Project?style=social)
 ![Last Updated](https://img.shields.io/github/last-commit/Ritik574-coder/SQL-data-Warehouse-Project?label=Updated&color=success)
 
@@ -533,56 +419,11 @@ Experimental JavaScript/TypeScript projects exploring modern web technologies an
 - 🎮 Interactive user experiences
 - 🔧 Modern ES6+ features
 
-**Impact**: Bridging data engineering with frontend development
-
 ![Last Updated](https://img.shields.io/github/last-commit/Ritik574-coder/Vibe-Coding-Project?label=Updated&color=success)
 
 </td>
 </tr>
 </table>
-
----
-
-### 📚 Learning & Development Projects
-
-<details>
-<summary><b>🎓 Educational Repositories (Click to Expand)</b></summary>
-<br>
-
-| Repository | Description | Tech | Updated | Status |
-|-----------|-------------|------|---------|--------|
-| [databricks_bootcamp_2026](https://github.com/Ritik574-coder/databricks_bootcamp_2026) | Databricks fundamentals & Lakehouse architecture | Jupyter, PySpark | Jan 2026 | 🔄 Active |
-| [end-to-end-data-engineering-project](https://github.com/Ritik574-coder/end-to-end-data-engineering-project-4413618) | Complete data pipeline from ingestion to visualization | Python, Airflow | Nov 2023 | ✅ Completed |
-| [pandas-essential-training](https://github.com/Ritik574-coder/pandas-essential-training-new-dataset-dupe-4493047) | Comprehensive Pandas training with real datasets | Python, Jupyter | Mar 2025 | ✅ Completed |
-| [learning-python-3980343](https://github.com/Ritik574-coder/learning-python-3980343) | Foundational Python programming course | Python | Feb 2025 | ✅ Completed |
-| [Advanced-Power-BI](https://github.com/Ritik574-coder/Advanced-Power-BI) | Advanced DAX, data modeling & visualization | Power BI, DAX | Aug 2022 | ✅ Completed |
-| [microsoft-sql-server-samples](https://github.com/Ritik574-coder/microsoft-sql-server-samples) | SQL Server sample databases & queries | T-SQL | Sep 2023 | ✅ Completed |
-
-</details>
-
----
-
-### 🔬 Experimental & Side Projects
-
-<details>
-<summary><b>🧪 Innovation Lab (Click to Expand)</b></summary>
-<br>
-
-#### Communication & Soft Skills
-- **[Speaking-Communication-](https://github.com/Ritik574-coder/Speaking-Commination-)**: Public speaking exercises and techniques
-- **[Public_Speaking_Foundations](https://github.com/Ritik574-coder/Commination-Public_Speaking_Foundations)**: Structured communication frameworks
-
-#### Web Development & Tools
-- **[json-essential-training](https://github.com/Ritik574-coder/json-essential-training-2887317)**: JSON fundamentals and APIs
-- **[fundamentals-of-vibe-coding](https://github.com/Ritik574-coder/fundamentals-of-vibe-coding-6060046)**: TypeScript and modern coding patterns
-- **[python-learning-](https://github.com/Ritik574-coder/python-learning-)**: Continuous Python practice repository
-
-#### Archives & Personal Projects
-- **[hrithik-awesome-projects](https://github.com/Ritik574-coder/hrithik-awesome-projects)**: Collection of personal experiments
-- **[githubfoundations](https://github.com/Ritik574-coder/githubfoundations)**: GitHub best practices and workflows
-- **[SQL-Server](https://github.com/Ritik574-coder/SQL-Server)**: SQL Server learning and optimization
-
-</details>
 
 ---
 
@@ -596,402 +437,27 @@ Experimental JavaScript/TypeScript projects exploring modern web technologies an
 | **Original Projects** | 8 | 🚀 Growing |
 | **Learning Forks** | 12 | 📚 Completed |
 | **Languages Used** | 8+ | 💻 Expanding |
-| **Total Stars** | Growing | ⭐ Community Support |
 | **Active Projects** | 5 | 🔄 In Development |
-| **Monthly Commits** | 50+ | 💪 Consistent |
 
 </div>
-
-<details>
-<summary><b>🎯 Project Categorization & Focus Areas</b></summary>
-<br>
-
-**Data Engineering (40%)**
-- ETL Pipeline Development
-- Data Warehouse Architecture
-- Cloud-based Data Solutions
-- Real-time Data Processing
-
-**Business Intelligence (30%)**
-- Dashboard Development
-- Advanced DAX & SQL
-- Data Visualization
-- KPI Tracking & Reporting
-
-**Python Development (20%)**
-- Data Analysis & Manipulation
-- Automation Scripts
-- Machine Learning Models
-- API Development
-
-**Learning & Experimentation (10%)**
-- New Technologies
-- Open Source Contributions
-- Skill Development
-- Community Projects
-
-</details>
-
----
-
-## 💼 Professional Experience & Achievements
-
-### 🏢 RitSky Global - Founder & CEO
-**Jan 2024 - Present | Patna, India**
-
-Building AI-powered data solutions and export analytics platforms for global businesses.
-
-**Key Responsibilities:**
-- 🎯 Architecting scalable ETL pipelines processing 1M+ records daily
-- 📊 Developing real-time analytics dashboards for export business insights
-- 🤖 Implementing ML models for predictive market analysis
-- 🌍 Managing end-to-end data infrastructure for international clients
-- 👥 Leading technical strategy and product development
-
-**Major Achievements:**
-- ✅ Built proprietary export analytics platform from ground up
-- ✅ Reduced data processing time by 60% through pipeline optimization
-- ✅ Delivered 15+ custom BI dashboards for diverse industries
-- ✅ Established data governance framework ensuring 99.9% accuracy
-- ✅ Onboarded 5+ enterprise clients in first year
-
----
-
-### 📈 Key Accomplishments
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-#### 🏆 Technical Mastery
-**20+ Projects Completed**
-
-Built comprehensive portfolio spanning data engineering, BI, and ML
-
-</td>
-<td width="33%" align="center">
-
-#### 🌟 Community Impact
-**Open Source Contributor**
-
-Sharing knowledge through code, documentation, and mentorship
-
-</td>
-<td width="33%" align="center">
-
-#### 📚 Continuous Learning
-**5+ Certifications**
-
-Committed to staying current with evolving tech landscape
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-#### 💡 Innovation
-**AI-Powered Solutions**
-
-Leveraging ML for predictive analytics and automation
-
-</td>
-<td width="33%" align="center">
-
-#### 🚀 Entrepreneurship
-**Founded RitSky Global**
-
-Transforming vision into viable data products
-
-</td>
-<td width="33%" align="center">
-
-#### 🌍 Global Reach
-**International Clients**
-
-Delivering data solutions across borders
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Education & Continuous Learning
-
-### 🎯 Formal Education
-**Bachelor's in Data Engineering** (Ongoing)  
-Focus: Database Systems, Data Structures, Machine Learning, Cloud Computing
-
-### 📚 Online Certifications & Courses
-
-<details>
-<summary><b>View All Completed Courses (15+)</b></summary>
-<br>
-
-#### Data Engineering
-- ✅ **End-to-End Data Engineering Project** - LinkedIn Learning
-- ✅ **Databricks Lakehouse Bootcamp 2026** - Databricks Academy
-- ✅ **Apache Airflow Fundamentals** - Udemy
-- ✅ **Azure Data Factory & Synapse** - Microsoft Learn
-
-#### Business Intelligence
-- ✅ **Advanced Power BI: DAX & Data Modeling** - Udemy
-- ✅ **Tableau Desktop Specialist** - Tableau Learning
-- ✅ **Power BI Data Analyst Associate** - Microsoft
-
-#### Programming
-- ✅ **Learning Python 3** - LinkedIn Learning
-- ✅ **Pandas Essential Training** - LinkedIn Learning
-- ✅ **Advanced SQL for Data Analysis** - Udemy
-- ✅ **JSON Essential Training** - LinkedIn Learning
-
-#### Soft Skills
-- ✅ **Public Speaking Foundations** - LinkedIn Learning
-- ✅ **Communication for Technical Professionals** - Coursera
-- ✅ **GitHub Foundations** - GitHub Skills
-
-#### Cloud & DevOps
-- ✅ **Azure Fundamentals (AZ-900)** - Microsoft
-- ✅ **Docker for Data Science** - DataCamp
-
-</details>
 
 ---
 
 ## 🔬 Technical Blog & Knowledge Sharing
 
-### 📝 Recent Articles & Tutorials
+> *Coming Soon — launching on Medium and Dev.to*
 
-> *Coming Soon: Planning to launch technical blog series on Medium and Dev.to*
-
-**Planned Topics:**
-- 📊 "Building Production-Ready ETL Pipelines with Apache Airflow"
-- 🐍 "Python Best Practices for Data Engineers"
-- ☁️ "Architecting Data Warehouses on Azure Synapse"
-- 📈 "Advanced DAX Patterns for Power BI"
-- 🤖 "Integrating ML Models into Data Pipelines"
-- 🌊 "Real-time Analytics with Apache Kafka"
-
-### 🎤 Speaking & Community Engagement
-
-**Future Goals:**
-- 🎯 Speak at local tech meetups (Target: Q2 2026)
-- 🎯 Present at data engineering conferences (Target: Q3 2026)
-- 🎯 Host webinars on BI best practices (Target: Q2 2026)
-- 🎯 Create YouTube tutorial series (Target: Q3 2026)
+**Planned Topics:** ETL with Airflow · Python Best Practices · Azure Synapse Architecture · Advanced DAX · ML in Pipelines · Kafka Streaming
 
 ---
 
 ## 🌐 Open Source Contributions
 
-### 🤝 Contribution Philosophy
-
-> "The best way to learn is to teach, and the best way to grow is to give back."
-
-I'm actively working to contribute more to open-source projects, particularly in:
-- 📊 Data engineering tools and frameworks
-- 🐍 Python libraries for data analysis
-- 📈 BI visualization templates
-- 📚 Educational resources and documentation
-
----
-
-## 🎨 Featured Visualizations & Dashboards
-
-<div align="center">
-
-### 📊 Power BI Portfolio Highlights
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-#### 📈 Sales Analytics Dashboard
-- Real-time revenue tracking
-- Regional performance analysis
-- Product mix optimization
-- Predictive sales forecasting
-
-**Technologies**: Power BI, DAX, SQL Server  
-**Data Volume**: 500K+ records
-
-</td>
-<td width="50%">
-
-#### 🌍 Export Business Intelligence
-- International trade analysis
-- Market trend identification
-- Supply chain visualization
-- Currency impact tracking
-
-**Technologies**: Power BI, Python, Azure  
-**Data Sources**: 12+ APIs
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 💼 HR Analytics Platform
-- Employee performance metrics
-- Attrition prediction models
-- Recruitment funnel analysis
-- Diversity & inclusion tracking
-
-**Technologies**: Tableau, R, PostgreSQL  
-**Refresh Rate**: Hourly
-
-</td>
-<td width="50%">
-
-#### 🎵 Spotify Trends Analysis
-- Music streaming patterns
-- Genre popularity forecasting
-- Artist collaboration networks
-- Recommendation engine
-
-**Technologies**: Python, Plotly, MongoDB  
-**ML Models**: Collaborative Filtering
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛣️ Career Roadmap & Future Vision
-
-<div align="center">
-
-### 🎯 Professional Development Timeline
-
-</div>
-
-```mermaid
-gantt
-    title Ritik Kumar - Career Roadmap 2026
-    dateFormat YYYY-MM-DD
-    section Certifications
-    Azure Data Engineer        :2026-01-01, 90d
-    Google Cloud Professional  :2026-04-01, 90d
-    AWS Data Analytics         :2026-07-01, 90d
-    
-    section Skills Development
-    Master Apache Airflow      :2026-01-01, 120d
-    Learn Kafka Streaming      :2026-03-01, 90d
-    MLOps Implementation       :2026-06-01, 120d
-    
-    section Projects
-    RitSky Analytics Platform  :2026-01-01, 180d
-    Open Source Contribution   :2026-02-01, 300d
-    ML Pipeline Framework      :2026-05-01, 150d
-    
-    section Community
-    Technical Blog Launch      :2026-02-01, 30d
-    Conference Speaking        :2026-06-01, 60d
-    YouTube Channel Start      :2026-08-01, 120d
-```
-
-### 🚀 Long-term Vision (3-5 Years)
-
-<table>
-<tr>
-<td width="33%">
-
-#### 🎯 Professional Goals
-- Lead data engineering teams
-- Architect enterprise solutions
-- Become Azure MVP
-- Speak at global conferences
-- Publish technical book
-
-</td>
-<td width="33%">
-
-#### 💼 Business Goals
-- Scale RitSky Global to 50+ clients
-- Launch SaaS analytics products
-- Build remote-first team
-- Expand to international markets
-- Achieve profitability milestones
-
-</td>
-<td width="33%">
-
-#### 🌱 Personal Goals
-- Mentor 100+ engineers
-- Contribute to major OSS projects
-- Build strong tech community
-- Achieve work-life balance
-- Give back to education
-
-</td>
-</tr>
-</table>
-
----
-
-## 📚 Resources & Learning Materials
-
-### 🎓 Recommended for Aspiring Data Engineers
-
-<details>
-<summary><b>📖 Books I Recommend</b></summary>
-<br>
-
-#### Data Engineering
-- 📕 "Designing Data-Intensive Applications" - Martin Kleppmann
-- 📗 "The Data Warehouse Toolkit" - Ralph Kimball
-- 📘 "Fundamentals of Data Engineering" - Joe Reis & Matt Housley
-- 📙 "Data Pipelines Pocket Reference" - James Densmore
-
-#### Python & Programming
-- 🐍 "Python for Data Analysis" - Wes McKinney
-- 💻 "Fluent Python" - Luciano Ramalho
-- 🔧 "Effective Python" - Brett Slatkin
-
-#### Machine Learning
-- 🤖 "Hands-On Machine Learning" - Aurélien Géron
-- 🧠 "Deep Learning" - Ian Goodfellow
-- 📊 "Python Machine Learning" - Sebastian Raschka
-
-</details>
-
-<details>
-<summary><b>🎥 Online Platforms I Use</b></summary>
-<br>
-
-- 🎓 **LinkedIn Learning** - Professional development courses
-- 🎯 **Udemy** - Technical deep-dives
-- 🚀 **DataCamp** - Interactive data science learning
-- 📺 **Coursera** - University-level courses
-- 💡 **Pluralsight** - Technology skill paths
-- 🔬 **YouTube** - Tutorials and tech talks
-
-</details>
-
-<details>
-<summary><b>🌐 Communities I'm Active In</b></summary>
-<br>
-
-- 💬 **Stack Overflow** - Q&A and knowledge sharing
-- 🐙 **GitHub Discussions** - Open source collaboration
-- 💼 **LinkedIn Groups** - Data engineering communities
-- 🐦 **X (Twitter)** - Tech news and networking
-- 💻 **Dev.to** - Technical writing and discussions
-- 🎮 **Discord** - Real-time developer communities
-
-</details>
+Actively working to contribute to data engineering tools, Python libraries, BI templates, and educational documentation.
 
 ---
 
 ## 🎯 How I Can Help You
-
-### 🤝 Collaboration Opportunities
-
-I'm always open to collaborating on exciting projects! Here's how we can work together:
 
 <table>
 <tr>
@@ -1001,10 +467,8 @@ I'm always open to collaborating on exciting projects! Here's how we can work to
 - 🔄 ETL pipeline development
 - 📊 BI dashboard creation
 - 🐍 Python automation projects
-- 🤖 ML model integration
 - ☁️ Cloud data architecture
 - 📚 Educational content creation
-- 🌍 Export analytics solutions
 
 </td>
 <td width="50%">
@@ -1015,144 +479,57 @@ I'm always open to collaborating on exciting projects! Here's how we can work to
 - 🐍 Python for data engineering
 - ☁️ Azure data services
 - 📊 Data modeling strategies
-- 🚀 Breaking into data engineering
-- 💼 Freelancing & entrepreneurship
 
 </td>
 </tr>
 </table>
 
-### 🎓 Mentorship
-
-I'm passionate about helping others grow in data engineering:
-
-- ✅ **Career Guidance** - Resume reviews, interview prep
-- ✅ **Technical Mentoring** - Code reviews, architecture discussions
-- ✅ **Project Support** - Guidance on personal projects
-- ✅ **Learning Path** - Customized roadmaps for skill development
-
-**Reach out via**: [LinkedIn DM](https://www.linkedin.com/in/ritik-kumar-b81b32375/) or [Email](mailto:ritsky@zohomail.in)
-
 ---
 
-## 📫 Let's Connect & Collaborate
+## 📫 Let's Connect
 
 <div align="center">
-
-### 🌟 I'd Love to Hear From You!
-
-Whether you want to discuss data engineering, collaborate on projects, or just chat about tech—my inbox is always open.
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-#### 💼 Professional
-
+#### 💼 LinkedIn
 <a href="https://www.linkedin.com/in/ritik-kumar-b81b32375/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-Best for professional networking and opportunities
 
 </td>
 <td align="center" width="25%">
 
 #### 📧 Email
-
 <a href="mailto:ritsky@zohomail.in">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-For detailed discussions and collaborations
-
 </td>
 <td align="center" width="25%">
 
-#### 📊 Portfolio
-
+#### 📊 Tableau
 <a href="https://public.tableau.com/app/profile/ritik.sky">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
 </a>
 
-Check out my data visualizations
-
 </td>
 <td align="center" width="25%">
 
-#### 🐦 Social
-
+#### 🐦 X
 <a href="https://x.com/KarlX279873">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
-Quick updates and tech thoughts
-
 </td>
 </tr>
 </table>
 
-### 📍 Location & Availability
-
-🌍 **Based in**: Patna, Bihar, India  
-⏰ **Timezone**: IST (UTC+5:30)  
-💼 **Open to**: Remote opportunities, freelance projects, collaborations  
-🎯 **Response Time**: Usually within 24-48 hours
+🌍 **India** &nbsp;|&nbsp; ⏰ **IST (UTC+5:30)** &nbsp;|&nbsp; 💼 **Open to remote & freelance** &nbsp;|&nbsp; 🎯 **Reply: 24–48h**
 
 </div>
-
----
-
-## ⚡ Fun Facts & Personal Touches
-
-<div align="center">
-
-### 🎭 Beyond the Code
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🎵 Data Meets Music
-I analyze Spotify streaming data for fun, building ML models to predict hit songs and discover emerging artists. My personal playlist is curated by algorithms I built!
-
-#### 🏏 Cricket Analytics Enthusiast
-Built a real-time IPL statistics tracker that analyzes player performance, predicts match outcomes, and identifies winning strategies—because cricket + data = ❤️
-
-#### 🌱 Sustainability Advocate
-Working on environmental data projects to analyze climate patterns and promote sustainable practices through data-driven insights.
-
-</td>
-<td width="50%">
-
-#### 📚 Continuous Learner
-Currently reading "Designing Data-Intensive Applications" while experimenting with Kafka streaming. Always have 2-3 technical books on rotation.
-
-#### 🎯 Problem Solver at Heart
-Love tackling complex optimization problems—whether it's reducing query time from minutes to seconds or finding efficient ETL patterns for terabyte-scale data.
-
-#### 🌍 Global Perspective
-From Patna to the world: Building solutions that bridge local expertise with global standards, making quality data engineering accessible everywhere.
-
-</td>
-</tr>
-</table>
-
-### 💭 Quote I Live By
-
-> *"Data is the new oil, but like oil, it's valuable only when refined. I'm here to be the refinery."*
-
----
-
-## 🙏 Acknowledgments & Thanks
-
-Special thanks to:
-- 🌟 **Open Source Community** - For countless learning resources
-- 👨‍🏫 **Mentors & Teachers** - Who guided my journey
-- 🤝 **LinkedIn Learning** - For quality education
-- 👥 **GitHub Community** - For collaboration and feedback
 
 ---
 
@@ -1160,62 +537,17 @@ Special thanks to:
 
 <div align="center">
 
-![Repository Details](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ritik574-coder&theme=radical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ritik574-coder&theme=radical" alt="Repository Stats"/>
 
-### 📂 Complete Repository Breakdown
-
-</div>
-
-<details>
-<summary><b>📊 View All 20 Repositories (Detailed)</b></summary>
-<br>
-
-#### 🏆 Featured Original Projects (7)
-
-| Repository | Description | Lang | Stars | Forks | Updated |
-|-----------|-------------|------|-------|-------|---------|
-| [Ritik574-coder](https://github.com/Ritik574-coder/Ritik574-coder) | 🏠 Profile README & configs | HTML | - | - | Jan 24, 2026 |
-| [Bi-Project-](https://github.com/Ritik574-coder/Bi-Project-) | 📊 Interactive BI dashboards | - | ⭐ 1 | 🍴 0 | Jan 20, 2026 |
-| [SQL-Server](https://github.com/Ritik574-coder/SQL-Server) | 🗄️ SQL learning & optimization | TSQL | - | - | Jan 19, 2026 |
-| [python-foundations-to-mastery](https://github.com/Ritik574-coder/python-foundations-to-mastery) | 🐍 Python comprehensive guide | Python | ⭐ 1 | 🍴 0 | Jan 12, 2026 |
-| [Speaking-Commination-](https://github.com/Ritik574-coder/Speaking-Commination-) | 🎤 Communication skills | - | - | - | Jan 7, 2026 |
-| [SQL-data-Warehouse-Project](https://github.com/Ritik574-coder/SQL-data-Warehouse-Project) | 🏗️ Modern data warehouse | TSQL | ⭐ 1 | 🍴 0 | Jan 2, 2026 |
-| [Vibe-Coding-Project](https://github.com/Ritik574-coder/Vibe-Coding-Project) | 💻 JavaScript experiments | JS | - | - | Jan 22, 2026 |
-
----
 
 <div align="center">
 
-## 🎬 Final Thoughts
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FFEA&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!;Open+to+collaborations+%26+opportunities;Star+%E2%AD%90+if+you+find+it+useful!" alt="Closing" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFEA&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Let's+build+the+future+with+data;Open+to+collaborations+and+opportunities;Star+%E2%AD%90+my+repos+if+you+find+them+useful!;Let's+connect+and+create+something+amazing!" alt="Closing Message" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy+Coding!&fontSize=32&fontColor=ffffff&animation=twinkling" alt="Footer Wave"/>
 
-</div>
-
----
-
-<div align="center">
-
-### 💫 Let's Transform Data Into Impact
-
-If you've made it this far, thanks for your interest! Whether you're a fellow data engineer, a potential collaborator, or just curious about what I do—I'd love to connect.
-
-**Remember**: Every expert was once a beginner. Keep learning, keep building, keep growing! 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Footer Wave"/>
-
-</div>
-
----
-
-<div align="center">
-
-**Made with ❤️ and ☕ from Patna, India**
-
-*Last Updated: January 24, 2026*
+**Made with ❤️ from India &nbsp;|&nbsp; Last Updated: January 2026**
 
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ritik574-coder.Ritik574-coder&style=for-the-badge&color=00ffea)](https://github.com/Ritik574-coder)
-
-**© 2026 Ritik Kumar | RitSky Global | All Rights Reserved**
 
 </div>
