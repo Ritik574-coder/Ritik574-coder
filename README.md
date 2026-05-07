@@ -4,7 +4,7 @@
 
 ---
 
-## 🎭 &nbsp;About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Ritik,
 
 <div align="center">
 
@@ -115,11 +115,11 @@ $ exit
 
 <div align="center">
 
-### 📅 Commit Heatmap
+### 📅 Activity Overview
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ritik574-coder&theme=radical" alt="Repos per Language" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ritik574-coder&theme=radical" alt="Most Commit Language" width="49%"/>
-
+<div align="center" style="margin: 28px 0;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ritik574-coder&theme=github_dark&hide_title=true" alt="Language Distribution" width="46%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.4);"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ritik574-coder&theme=github_dark&hide_title=true" alt="Primary Languages" width="46%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.4);"/>
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> &nbsp;Tech Universe
