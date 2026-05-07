@@ -15,7 +15,7 @@
 ```bash
 $ cat description.md
 
-Ritik Kumar is a self-learning Data Engineering learner
+Ritik is a self-learning Data Engineering learner
 from India,focused on building strong foundations
 in data systems,analytics,and cloud technologies.
 
