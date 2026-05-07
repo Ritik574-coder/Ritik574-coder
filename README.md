@@ -1,30 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hey+there%2C+I'm+Ritik+Kumar+%F0%9F%91%8B;Data+Engineer+%7C+AI+Innovator+%7C+Global+Entrepreneur" alt="Header" />
-</h1>
- 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=700&color=00FFEA&center=true&vCenter=true&width=900&lines=Transforming+Raw+Data+into+Strategic+Intelligence;Building+Scalable+ETL+Pipelines+%26+Cloud+Architectures;Founder+%40+RitSky+Global+%7C+Empowering+Export+Innovation;From+Patna+to+Global+Tech+Communities;Python+%7C+SQL+%7C+Azure+%7C+Power+BI+Specialist" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A0F1C&height=100&section=header&text=&fontSize=0&animation=blinking" width="100%" alt="Header">
 </div>
-
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ritik-kumar-b81b32375/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://public.tableau.com/app/profile/ritik.sky"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/></a>
-  <a href="https://x.com/KarlX279873"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.instagram.com/ritik_sky1/?__pwa=1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:ritsky@zohomail.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ritik574-coder&label=Profile%20Views&color=00ffea&style=for-the-badge&labelColor=0a001f" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ritik574-coder?label=Followers&style=for-the-badge&logo=github&color=00ffea&labelColor=0a001f" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Ritik574-coder?style=for-the-badge&logo=github&color=ff007a&labelColor=0a001f" alt="Stars" />
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling" alt="Wave Animation"/>
 
 ---
 
@@ -32,7 +8,7 @@
 
 <div align="center">
 
-<img align="right" width="370" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="360" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 </div>
 
