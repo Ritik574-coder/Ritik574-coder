@@ -89,7 +89,11 @@ $ exit
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ritik574-coder&layout=compact&theme=radical&hide_border=true&title_color=00ffea&text_color=ffffff&bg_color=0a001f&border_radius=10&langs_count=10&hide=html,css" alt="Top Languages" width="100%"/>
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ritik574-coder&layout=donut&theme=transparent&hide_border=true&bg_color=00000000&title_color=7DF9FF&text_color=E6EDF3&langs_count=6&hide=html,css,jupyter%20notebook&border_radius=14" 
+  alt="Top Languages Donut Chart" 
+  width="100%"
+/>
 
 </td>
 <td width="50%">
