@@ -63,7 +63,7 @@ $ exit
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ritik574-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics&title_color=00ffea&icon_color=ff007a&text_color=ffffff&bg_color=0a001f&border_radius=10&cache_seconds=1800" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ritik574-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics&title_color=00ffea&icon_color=ff007a&text_color=ffffff&bg_color=0a001f&border_radius=10&cache_seconds=1800" alt="GitHub Stats" width="100%"/>
 
 </td>
 <td width="50%">
