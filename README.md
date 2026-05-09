@@ -56,6 +56,8 @@ $ exit
 </div>
 
 <div align="center">
+
+---
   
 ### 🏆 Key Metrics Dashboard
 
@@ -79,6 +81,8 @@ $ exit
 
 <div align="center">
 
+---
+
 ### 💻 Language Distribution & Activity
 
 <table>
@@ -100,28 +104,34 @@ $ exit
 
 <div align="center">
 
+---
+
 ### 🎖️ Achievement Showcase
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ritik574-coder&theme=radical&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,PullRequest,Issues,Reviews" alt="Trophies" width="90%"/>
 
-</div>
-
-<div align="center">
-
-### 📉 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritik574-coder&bg_color=0a001f&color=00ffea&line=ff007a&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph&area_color=00ffea&title_color=00ffea&radius=8" alt="Activity Graph" width="100%"/>
+---
 
 </div>
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritik574-coder&bg_color=0d1117&color=00f5ff&line=00e1ff&point=ff00c8&area=true&hide_border=true&custom_title=Contribution%20Activity&area_color=0f2d3d&title_color=00f5ff&radius=12" alt="Activity Graph" width="100%"/>
+
+</div>
+
+<div align="center">
+  
+---
+  
 ### 📅 Activity Overview
 
 <div align="center" style="margin: 28px 0;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ritik574-coder&theme=github_dark&hide_title=true" alt="Language Distribution" width="46%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.4);"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ritik574-coder&theme=github_dark&hide_title=true" alt="Primary Languages" width="46%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.4);"/>
 </div>
+
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> &nbsp;Tech Universe
 
