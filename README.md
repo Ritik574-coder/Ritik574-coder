@@ -89,7 +89,7 @@ $ exit
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritik574-coder&layout=compact&theme=radical&hide_border=true&title_color=00ffea&text_color=ffffff&bg_color=0a001f&border_radius=10&langs_count=10&hide=html,css" alt="Top Languages" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ritik574-coder&layout=compact&theme=radical&hide_border=true&title_color=00ffea&text_color=ffffff&bg_color=0a001f&border_radius=10&langs_count=10&hide=html,css" alt="Top Languages" width="100%"/>
 
 </td>
 <td width="50%">
@@ -130,6 +130,8 @@ $ exit
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ritik574-coder&theme=github_dark&hide_title=true" alt="Language Distribution" width="46%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.4);"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ritik574-coder&theme=github_dark&hide_title=true" alt="Primary Languages" width="46%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.4);"/>
 </div>
+
+
 
 ---
 
