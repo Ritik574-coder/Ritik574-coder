@@ -63,12 +63,13 @@ $ exit
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ritik574-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics&title_color=00ffea&icon_color=ff007a&text_color=ffffff&bg_color=0a001f&border_radius=10&cache_seconds=1800" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ritik574-coder&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics&title_color=00ffea&icon_color=ff007a&text_color=ffffff&bg_color=0a001f&border_radius=10" alt="GitHub Stats" width="100%"/>
 
 </td>
+
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ritik574-coder&theme=radical&hide_border=true&border_radius=10&ring=00ffea&fire=ff007a&currStreakNum=00ffea&sideNums=ffffff&dates=aaaaaa&stroke=00ffea&currStreakLabel=00ffea&sideLabels=ffffff&background=0a001f" alt="Streak Stats" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Ritik574-coder&theme=radical&hide_border=true&border_radius=10&ring=00ffea&fire=ff007a&currStreakNum=00ffea&sideNums=ffffff&dates=aaaaaa&stroke=00ffea&currStreakLabel=00ffea&sideLabels=ffffff&background=0a001f" alt="Streak Stats" width="100%"/>
 
 </td>
 </tr>
