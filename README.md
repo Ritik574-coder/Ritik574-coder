@@ -485,44 +485,58 @@ Actively working to contribute to data engineering tools, Python libraries, BI t
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 #### 💼 LinkedIn
+
 <a href="https://www.linkedin.com/in/ritik-kumar-b81b32375/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 #### 📧 Email
+
 <a href="mailto:ritsky@zohomail.in">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 #### 📊 Tableau
+
 <a href="https://public.tableau.com/app/profile/ritik.sky">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau"/>
 </a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 #### 🐦 X
+
 <a href="https://x.com/KarlX279873">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+</td>
+<td align="center" width="20%">
+
+#### 💬 Discord
+
+<a href="https://discord.gg/gqPKwWjKA">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-🌍 **India** &nbsp;|&nbsp; ⏰ **IST (UTC+5:30)** &nbsp;|&nbsp; 💼 **Open to remote & freelance** &nbsp;|&nbsp; 🎯 **Reply: 24–48h**
+🌍 **India**  |  ⏰ **IST (UTC+5:30)**  |   🎯 **Reply: 24–48h**
 
 </div>
+
 
 ---
 
