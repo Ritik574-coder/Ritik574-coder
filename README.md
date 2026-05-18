@@ -80,34 +80,7 @@ $ exit
 </div>
 
 <div align="center">
-
----
-
-### 💻 Language Distribution & Activity
-
-<table>
-<tr>
-<td width="50%">
-
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ritik574-coder&layout=donut&theme=transparent&hide_border=true&bg_color=00000000&title_color=7DF9FF&text_color=E6EDF3&langs_count=6&hide=html,css,jupyter%20notebook&border_radius=14" 
-  alt="Top Languages Donut Chart" 
-  width="100%"
-/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ritik574-coder&theme=radical&utcOffset=5.5" alt="Productive Time" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
+  
 ---
 
 ### 🎖️ Achievement Showcase
