@@ -113,18 +113,6 @@ $ exit
 ### 🎖️ Achievement Showcase
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ritik574-coder&theme=radical&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,PullRequest,Issues,Reviews" alt="Trophies" width="90%"/>
-
----
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritik574-coder&bg_color=0d1117&color=00f5ff&line=00e1ff&point=ff00c8&area=true&hide_border=true&custom_title=Contribution%20Activity&area_color=0f2d3d&title_color=00f5ff&radius=12" alt="Activity Graph" width="100%"/>
-
-</div>
-
-<div align="center">
   
 ---
   
