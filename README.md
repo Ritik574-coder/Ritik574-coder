@@ -23,8 +23,8 @@ Ritik is a self-learning Data Engineering learner
 from India,focused on building strong foundations
 in data systems,analytics,and cloud technologies.
 
-His work primarily revolves around Python, SQL, Power BI,
-PostgreSQL, and modern data engineering workflows.
+His work primarily revolves around Data Engineering,
+AI, ML and modern data & ai engineering workflows.
 
 $ exit
 ```
