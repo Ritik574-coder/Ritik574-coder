@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0A0F1C&height=70&section=header&text=&fontSize=0&animation=blinking" width="100%" alt="Header">
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
+
+<br/>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Ritik,
 
@@ -57,7 +61,11 @@ $ exit
 
 <div align="center">
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
+
+<br/>
   
 ### 🏆 Key Metrics Dashboard
 
@@ -81,13 +89,21 @@ $ exit
 
 <div align="center">
   
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
+
+<br/>
 
 ### 🎖️ Achievement Showcase
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ritik574-coder&theme=radical&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,PullRequest,Issues,Reviews" alt="Trophies" width="90%"/>
   
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
+
+<br/>
   
 ### 📅 Activity Overview
 
@@ -96,86 +112,69 @@ $ exit
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ritik574-coder&theme=github_dark&hide_title=true" alt="Primary Languages" width="46%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.4);"/>
 </div>
 
+<br/>
 
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> &nbsp;Tech Universe
-
-<div align="center">
-
-### 🐍 &nbsp;Languages
-[![My Skills](https://skillicons.dev/icons?i=python,bash,r&theme=dark&perline=7)](https://skillicons.dev)
-
-### ☁️ &nbsp;Cloud & Data Engineering
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vim&theme=dark&perline=7)](https://skillicons.dev)
-
-### 🗄️ &nbsp;Databases
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql,azure,redis&theme=dark&perline=7)](https://skillicons.dev)
-
-### 🔧 &nbsp;Tools & IDEs
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,figma,notion,stackoverflow&theme=dark&perline=7)](https://skillicons.dev)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
 
 <br/>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> &nbsp;Learning Tech Universe
+
 <div align="center">
 
-<table>
-<tr><td align="center"><b>🐍 Data & Analytics</b></td><td align="center"><b>☁️ Cloud & Engineering</b></td></tr>
-<tr>
-<td>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-</td>
-<td>
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=flat-square&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-</td>
-</tr>
-<tr><td align="center"><b>📊 BI & Visualization</b></td><td align="center"><b>🗄️ Databases & Storage</b></td></tr>
-<tr>
-<td>
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-</td>
-<td>
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0089D0?style=flat-square&logo=microsoftazure&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/apache-spark.png" width="48" height="48" alt="Apache Spark" /><br>Spark</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" /><br>Python</td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/96/bash.png" width="48" height="48" alt="Bash" /><br>Bash</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br>Pandas</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/databricks" width="48" height="48" alt="Databricks" /><br>Databricks</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br>NumPy</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="matplotlib" /><br>Matplot</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTourch" /><br>PyTourch</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" /><br>R</td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="48" height="48" alt="SQL" /><br>MS-SQL</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/snowflake" width="48" height="48" alt="Snowflake" /><br>Snowflake</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" /><br>Postgres</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br>SQLite</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/polars" width="48" height="48" alt="Polars" /><br>Polars</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" width="48" height="48" alt="Apache Airflow" /><br>Airflow</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" /><br>Docker</td>
+    <td align="center" width="96"><img src="https://assets.streamlinehq.com/image/private/w_34,h_34,ar_1/f_auto/v1/icons/3/dbt-ytv7trkoaqcnvr5yxcvvk.png/dbt-384wi7nth5d4pvytczw6vn.png?_a=DATAiZiuZAA0" width="48" height="48" alt="dbt" /><br>dbt</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="RestAPI" /><br>RestAPI</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>VS Code</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>Git</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/delta" width="48" height="48" alt="Delta Lake" /><br>Delta Lake</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Apache Kafka" /><br>Apache Kafka</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/airbyte" width="48" height="48" alt="Airbyte" /><br>Airbyte</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/minio" width="48" height="48" alt="MinIO (S3)" /><br>MinIO (S3)</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" /><br>AWS</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" /><br>GCP</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" /><br>Azure</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
+    <td align="center" width="96"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" /><br>Kubernetes</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" /><br>Redis</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/cursor" width="48" height="48" alt="Cursor" /><br>Cursor</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/githubcopilot" width="48" height="48" alt="Copilot" /><br>Copilot</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=markdown" width="48" height="48" alt="Makrdown" /><br>Makrdown</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br>GitHub Actions</td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/qdrant/00B4D8" width="48" height="48" alt="Qdrant" /><br>Qdrant</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" /><br>Jupyter</td>
+  </tr>
 </table>
-
-</div>
 
 <br/>
 
@@ -190,13 +189,21 @@ $ exit
 
 **Planned Topics:** ETL with Airflow · Python Best Practices · Azure Synapse Architecture · Advanced DAX · ML in Pipelines · Kafka Streaming
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
+
+<br/>
 
 ## 🌐 Open Source Contributions
 
 Actively working to contribute to data engineering tools, Python libraries, BI templates, and educational documentation.
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
+
+<br/>
 
 ## 🎯 How I Can Help You
 
@@ -225,7 +232,11 @@ Actively working to contribute to data engineering tools, Python libraries, BI t
 </tr>
 </table>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
+
+<br/>
 
 ## 📫 Let's Connect
 
