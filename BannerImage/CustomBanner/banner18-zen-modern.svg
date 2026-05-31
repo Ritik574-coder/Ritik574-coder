@@ -1,0 +1,26 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#fcfbf7" />
+  <circle cx="650" cy="80" r="50" fill="#e11d48" opacity="0.1" />
+  
+  <!-- Name in Vertical Style -->
+  <g transform="translate(100, 40)">
+    <text x="0" y="30" font-family="'Palatino', serif" font-size="40" font-weight="bold" fill="#1c1917">R</text>
+    <text x="0" y="70" font-family="'Palatino', serif" font-size="40" font-weight="bold" fill="#1c1917">I</text>
+    <text x="0" y="110" font-family="'Palatino', serif" font-size="40" font-weight="bold" fill="#1c1917">T</text>
+    <text x="0" y="150" font-family="'Palatino', serif" font-size="40" font-weight="bold" fill="#1c1917">I</text>
+    <text x="0" y="190" font-family="'Palatino', serif" font-size="40" font-weight="bold" fill="#1c1917">K</text>
+  </g>
+
+  <!-- Professional Info -->
+  <g transform="translate(180, 80)">
+    <text y="0" font-family="'Palatino', serif" font-size="28" fill="#1c1917">Data Engineer</text>
+    <text y="35" font-family="monospace" font-size="14" fill="#44403c" letter-spacing="4">AI &amp; ML SPECIALIST</text>
+    <text y="60" font-family="monospace" font-size="14" fill="#44403c" letter-spacing="4">ENTREPRENEURSHIP</text>
+  </g>
+
+  <!-- Red Seal/Stamp -->
+  <rect x="700" y="130" width="40" height="40" fill="#e11d48" />
+  <text x="720" y="158" text-anchor="middle" font-family="serif" font-size="24" fill="white" font-weight="bold">理</text>
+  
+  <line x1="160" y1="40" x2="160" y2="160" stroke="#1c1917" stroke-width="0.5" />
+</svg>

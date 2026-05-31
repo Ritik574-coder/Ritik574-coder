@@ -1,0 +1,14 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0d001a"/><stop offset="100%" stop-color="#001a0d"/></linearGradient>
+<linearGradient id="holo" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#ff0088"/><stop offset="20%" stop-color="#ff6600"/><stop offset="40%" stop-color="#ffcc00"/><stop offset="60%" stop-color="#00ff88"/><stop offset="80%" stop-color="#0088ff"/><stop offset="100%" stop-color="#cc00ff"/></linearGradient>
+<style>.hs{animation:hs 5s linear infinite}@keyframes hs{0%{filter:hue-rotate(0deg)}100%{filter:hue-rotate(360deg)}}</style>
+</defs>
+<rect width="800" height="200" fill="url(#hbg)"/>
+<rect x="0" y="0" width="800" height="5" fill="url(#holo)"/>
+<rect x="0" y="195" width="800" height="5" fill="url(#holo)"/>
+<text x="400" y="112" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="66" font-weight="700" fill="url(#holo)" letter-spacing="14" class="hs">RITIK</text>
+<rect x="100" y="126" width="600" height="2" fill="url(#holo)" opacity=".7"/>
+<text x="400" y="158" text-anchor="middle" font-family="monospace" font-size="14" fill="#cccccc" letter-spacing="5" class="hs">Developer · Data Engineer · AI/ML</text>
+<text x="400" y="182" text-anchor="middle" font-family="monospace" font-size="10" fill="#666" letter-spacing="2">Building intelligent systems · 2025</text>
+</svg>

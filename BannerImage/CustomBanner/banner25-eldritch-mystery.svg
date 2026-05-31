@@ -1,0 +1,19 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="eldritchGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7e22ce" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="800" height="200" fill="#0a000f" />
+  <rect width="800" height="200" fill="url(#eldritchGlow)" />
+  
+  <!-- Subtle Tentacle Curves -->
+  <path d="M 0 200 Q 100 150 0 100" stroke="#7e22ce" fill="none" opacity="0.2" stroke-width="5" />
+  <path d="M 800 0 Q 700 50 800 100" stroke="#7e22ce" fill="none" opacity="0.2" stroke-width="5" />
+  
+  <text x="400" y="110" text-anchor="middle" font-family="serif" font-size="68" font-weight="bold" fill="#f8fafc" style="letter-spacing: 12px; filter: drop-shadow(0 0 20px #7e22ce);">RITIK</text>
+  
+  <text x="400" y="145" text-anchor="middle" font-family="serif" font-size="14" fill="#a855f7" font-style="italic">Unlocking Ancient Secrets of AI &amp; ML</text>
+  <text x="400" y="170" text-anchor="middle" font-family="monospace" font-size="10" fill="#4c1d95" letter-spacing="5">THE VOID WHISPERS IN DATA</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes blink {
+        0%, 100% { opacity: 0.2; }
+        50% { opacity: 1; }
+      }
+      .bio-light { animation: blink 4s infinite; }
+    </style>
+  </defs>
+  <rect width="800" height="200" fill="#000814" />
+  
+  <!-- Abyssal Creatures (Represented by dots) -->
+  <circle cx="100" cy="50" r="2" fill="#00f2ff" class="bio-light" />
+  <circle cx="700" cy="150" r="1.5" fill="#00f2ff" class="bio-light" style="animation-delay: 1s;" />
+  <circle cx="350" cy="20" r="1" fill="#00f2ff" class="bio-light" style="animation-delay: 2s;" />
+  <circle cx="500" cy="180" r="2.5" fill="#00f2ff" class="bio-light" style="animation-delay: 1.5s;" />
+  
+  <text x="400" y="110" text-anchor="middle" font-family="'Helvetica', sans-serif" font-size="64" font-weight="900" fill="white" opacity="0.8" style="letter-spacing: 15px;">RITIK</text>
+  
+  <path d="M 300 130 H 500" stroke="#00f2ff" stroke-width="0.5" opacity="0.3" />
+  
+  <text x="400" y="155" text-anchor="middle" font-family="monospace" font-size="12" fill="#00f2ff" opacity="0.5">DEEP DATA MINING // ABYSSAL ARCHITECT</text>
+</svg>

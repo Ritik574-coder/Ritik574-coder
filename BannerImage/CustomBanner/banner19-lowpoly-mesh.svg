@@ -1,0 +1,20 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#1e293b" />
+  <defs>
+    <linearGradient id="polyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#334155" />
+      <stop offset="100%" stop-color="#475569" />
+    </linearGradient>
+  </defs>
+  
+  <path d="M 0 0 L 200 50 L 150 150 L 0 200 Z" fill="#334155" opacity="0.5" />
+  <path d="M 800 0 L 600 80 L 650 180 L 800 200 Z" fill="#334155" opacity="0.5" />
+  <path d="M 200 50 L 400 20 L 600 80 L 400 180 Z" fill="#1e293b" stroke="#475569" stroke-width="1" />
+  
+  <text x="400" y="105" text-anchor="middle" font-family="'Inter', sans-serif" font-size="82" font-weight="900" fill="#f8fafc" style="letter-spacing: -4px;">RITIK</text>
+  
+  <rect x="300" y="130" width="200" height="30" rx="15" fill="#3b82f6" />
+  <text x="400" y="150" text-anchor="middle" font-family="monospace" font-size="12" font-weight="bold" fill="white">DATA ENGINEER | AI | ML</text>
+  
+  <text x="400" y="180" text-anchor="middle" font-family="monospace" font-size="10" fill="#64748b">MULTIDIMENSIONAL PROBLEM SOLVER</text>
+</svg>

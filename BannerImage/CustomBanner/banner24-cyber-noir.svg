@@ -1,0 +1,32 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0" />
+      <stop offset="50%" stop-color="#3b82f6" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0" />
+    </linearGradient>
+    <style>
+      @keyframes rain {
+        from { transform: translateY(-200px); }
+        to { transform: translateY(200px); }
+      }
+      .rain-drop { animation: rain 1.5s linear infinite; }
+    </style>
+  </defs>
+  <rect width="800" height="200" fill="#020617" />
+  
+  <!-- Rain Drops -->
+  <rect x="100" y="0" width="1" height="40" fill="url(#rainGrad)" class="rain-drop" />
+  <rect x="250" y="0" width="1" height="60" fill="url(#rainGrad)" class="rain-drop" style="animation-delay: 0.2s;" />
+  <rect x="400" y="0" width="1" height="30" fill="url(#rainGrad)" class="rain-drop" style="animation-delay: 0.5s;" />
+  <rect x="550" y="0" width="1" height="50" fill="url(#rainGrad)" class="rain-drop" style="animation-delay: 0.1s;" />
+  <rect x="700" y="0" width="1" height="40" fill="url(#rainGrad)" class="rain-drop" style="animation-delay: 0.4s;" />
+
+  <text x="50" y="110" font-family="'Helvetica', sans-serif" font-size="80" font-weight="900" fill="white" opacity="0.05">RITIK</text>
+  <text x="60" y="105" font-family="'Helvetica', sans-serif" font-size="80" font-weight="900" fill="white">RITIK</text>
+  
+  <g transform="translate(60, 135)">
+    <text font-family="monospace" font-size="14" fill="#64748b">DATA ENGINEER // SILENT OPERATOR</text>
+    <text y="20" font-family="monospace" font-size="10" fill="#3b82f6">SCANNING FOR ANOMALIES...</text>
+  </g>
+</svg>

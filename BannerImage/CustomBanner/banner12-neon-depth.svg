@@ -1,0 +1,56 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes scanline {
+        0% { transform: translateY(-200px); }
+        100% { transform: translateY(200px); }
+      }
+      @keyframes glow {
+        0%, 100% { filter: drop-shadow(0 0 5px #00f2ff); }
+        50% { filter: drop-shadow(0 0 20px #00f2ff); }
+      }
+      .neon-text { font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 900; }
+      .grid-line { stroke: #1e293b; stroke-width: 1; }
+      .scanline { animation: scanline 8s linear infinite; opacity: 0.1; }
+      .glow-effect { animation: glow 3s ease-in-out infinite; }
+    </style>
+    
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2ff" />
+      <stop offset="100%" stop-color="#7000ff" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="#020617" />
+  
+  <!-- Perspective Grid -->
+  <g transform="translate(400, 100) scale(1.5)">
+    <line x1="-400" y1="-100" x2="400" y2="100" class="grid-line" />
+    <line x1="-400" y1="100" x2="400" y2="-100" class="grid-line" />
+    <line x1="-400" y1="0" x2="400" y2="0" class="grid-line" />
+    <line x1="0" y1="-100" x2="0" y2="100" class="grid-line" />
+  </g>
+  
+  <!-- Scanline Effect -->
+  <rect width="800" height="2" fill="url(#neonGrad)" class="scanline" />
+
+  <!-- Content -->
+  <g transform="translate(400, 100)">
+    <!-- Main Name with Glow -->
+    <text text-anchor="middle" y="10" class="neon-text glow-effect" font-size="80" fill="none" stroke="url(#neonGrad)" stroke-width="1.5" style="letter-spacing: 15px; opacity: 0.5;">RITIK</text>
+    <text text-anchor="middle" y="10" class="neon-text" font-size="80" fill="white" style="letter-spacing: 15px;">RITIK</text>
+    
+    <!-- Subtitle -->
+    <text text-anchor="middle" y="45" font-family="monospace" font-size="14" fill="#94a3b8" letter-spacing="8">DATA ENGINEER | AI &amp; ML</text>
+    <text text-anchor="middle" y="65" font-family="monospace" font-size="10" fill="#7000ff" font-weight="bold" letter-spacing="4">[ MISSION: INNOVATE • ENTREPRENEURSHIP ]</text>
+  </g>
+
+  <!-- Frame Accents -->
+  <polyline points="20,20 60,20 20,60 20,20" fill="none" stroke="url(#neonGrad)" stroke-width="2" />
+  <polyline points="780,180 740,180 780,140 780,180" fill="none" stroke="url(#neonGrad)" stroke-width="2" />
+  
+  <!-- Tech Details -->
+  <text x="770" y="30" text-anchor="end" font-family="monospace" font-size="8" fill="#334155">CORE_ENGINE: v4.0</text>
+  <text x="30" y="180" font-family="monospace" font-size="8" fill="#334155">STATUS: OPTIMIZED</text>
+</svg>

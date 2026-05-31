@@ -1,0 +1,15 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<defs><style>.gl{animation:gl 4s infinite}@keyframes gl{0%,90%,100%{transform:translate(0,0)}92%{transform:translate(-4px,0)}94%{transform:translate(4px,0)}96%{transform:translate(-2px,0)}98%{transform:translate(2px,0)}}</style></defs>
+<rect width="800" height="200" fill="#08001a"/>
+<rect x="0" y="0" width="800" height="100" fill="#0a0022"/><rect x="0" y="100" width="800" height="100" fill="#050015"/>
+<line x1="0" y1="100" x2="800" y2="100" stroke="#6600ff" stroke-width="1.2"/>
+<rect x="0" y="97" width="250" height="6" fill="#ff00ff" opacity=".15"/><rect x="360" y="97" width="120" height="6" fill="#00ffff" opacity=".1"/><rect x="590" y="97" width="210" height="6" fill="#ff00ff" opacity=".08"/>
+<g class="gl">
+<text x="400" y="66" text-anchor="middle" font-family="'Arial Black',sans-serif" font-size="52" font-weight="900" fill="#cc00ff" letter-spacing="8" opacity=".25" transform="translate(5,0)">RITIK</text>
+<text x="400" y="66" text-anchor="middle" font-family="'Arial Black',sans-serif" font-size="52" font-weight="900" fill="#00ffff" letter-spacing="8" opacity=".25" transform="translate(-5,0)">RITIK</text>
+<text x="400" y="66" text-anchor="middle" font-family="'Arial Black',sans-serif" font-size="52" font-weight="900" fill="#ffffff" letter-spacing="8">RITIK</text>
+</g>
+<text x="400" y="134" text-anchor="middle" font-family="monospace" font-size="15" fill="#ff44cc" letter-spacing="4">FULL STACK DEVELOPER</text>
+<text x="400" y="160" text-anchor="middle" font-family="monospace" font-size="12" fill="#8844ff" letter-spacing="3">DATA ENGINEER  ·  AI / ML STUDENT</text>
+<text x="400" y="184" text-anchor="middle" font-family="monospace" font-size="10" fill="#440088" letter-spacing="5">[ BUILDING THE FUTURE ]</text>
+</svg>

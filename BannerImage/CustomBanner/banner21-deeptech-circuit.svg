@@ -1,0 +1,27 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes pulse-path {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 1; stroke-width: 2; }
+      }
+      .circuit-path { stroke: #00f2ff; fill: none; stroke-width: 1; animation: pulse-path 3s infinite; }
+    </style>
+  </defs>
+  <rect width="800" height="200" fill="#020617" />
+  
+  <g opacity="0.4">
+    <path d="M 0 50 H 100 L 150 100 H 300" class="circuit-path" />
+    <path d="M 800 150 H 700 L 650 100 H 500" class="circuit-path" style="animation-delay: 1s;" />
+    <path d="M 100 0 V 50 L 150 100" class="circuit-path" style="animation-delay: 0.5s;" />
+    <path d="M 700 200 V 150 L 650 100" class="circuit-path" style="animation-delay: 1.5s;" />
+    <circle cx="150" cy="100" r="3" fill="#00f2ff" />
+    <circle cx="650" cy="100" r="3" fill="#00f2ff" />
+  </g>
+
+  <text x="400" y="105" text-anchor="middle" font-family="monospace" font-size="72" font-weight="900" fill="white" style="letter-spacing: 5px; filter: drop-shadow(0 0 10px #00f2ff);">RITIK</text>
+  <text x="400" y="140" text-anchor="middle" font-family="monospace" font-size="16" fill="#00f2ff" letter-spacing="8">DATA ENGINEER</text>
+  <text x="400" y="165" text-anchor="middle" font-family="monospace" font-size="10" fill="#94a3b8">ARCHITECTURE • INTELLIGENCE • SCALE</text>
+  
+  <rect x="350" y="175" width="100" height="2" fill="#00f2ff" opacity="0.5" />
+</svg>

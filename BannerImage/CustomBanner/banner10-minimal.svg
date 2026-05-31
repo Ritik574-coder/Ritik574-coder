@@ -1,0 +1,12 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="200" fill="#0d0d0d"/>
+<rect x="0" y="0" width="6" height="200" fill="#ffffff"/>
+<rect x="0" y="196" width="800" height="4" fill="#ffffff" opacity=".1"/>
+<text x="44" y="90" font-family="Georgia,serif" font-size="62" font-weight="700" fill="#ffffff" letter-spacing="6">RITIK</text>
+<line x1="44" y1="106" x2="560" y2="106" stroke="#333" stroke-width=".8"/>
+<text x="46" y="136" font-family="monospace" font-size="14" fill="#888" letter-spacing="4">Developer  ·  Data Engineer  ·  AI/ML</text>
+<text x="46" y="162" font-family="monospace" font-size="11" fill="#444" letter-spacing="2">Open Source  ·  Cloud  ·  Machine Learning</text>
+<rect x="710" y="20" width="72" height="24" rx="3" fill="none" stroke="#333" stroke-width=".8"/>
+<text x="746" y="36" text-anchor="middle" font-family="monospace" font-size="10" fill="#555">● ONLINE</text>
+<text x="754" y="188" text-anchor="end" font-family="monospace" font-size="10" fill="#333">2025</text>
+</svg>

@@ -1,0 +1,31 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#1a0b2e" />
+  <defs>
+    <linearGradient id="sunGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff0080" />
+      <stop offset="50%" stop-color="#ff8c00" />
+      <stop offset="100%" stop-color="#ff0080" stop-opacity="0" />
+    </linearGradient>
+    <style>
+      @keyframes grid-scroll {
+        from { transform: translateY(0); }
+        to { transform: translateY(20px); }
+      }
+      .grid-lines { animation: grid-scroll 1s linear infinite; }
+    </style>
+  </defs>
+  
+  <circle cx="400" cy="120" r="80" fill="url(#sunGrad)" />
+  
+  <g transform="translate(0, 120)">
+    <g class="grid-lines">
+      <path d="M 0 0 H 800 M 0 20 H 800 M 0 40 H 800 M 0 60 H 800 M 0 80 H 800" fill="none" stroke="#ff0080" stroke-width="0.5" opacity="0.3" />
+    </g>
+    <path d="M 0 0 L 400 80 L 800 0" fill="none" stroke="#ff0080" stroke-width="0.5" opacity="0.5" />
+    <path d="M 200 0 L 400 80 L 600 0" fill="none" stroke="#ff0080" stroke-width="0.5" opacity="0.5" />
+  </g>
+  
+  <text x="400" y="100" text-anchor="middle" font-family="'Arial Black', sans-serif" font-size="72" font-weight="900" fill="white" style="letter-spacing: 12px; filter: drop-shadow(0 0 15px #ff0080);">RITIK</text>
+  <text x="400" y="130" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#00f2ff" style="letter-spacing: 6px;">DATA ENGINEER // AI // ML</text>
+  <text x="400" y="155" text-anchor="middle" font-family="monospace" font-size="10" fill="white" opacity="0.6">THE FUTURE IS NOW</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="obsidian" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#000000" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#obsidian)" />
+  
+  <!-- Sharp Reflection -->
+  <polygon points="0,0 800,0 800,100 0,60" fill="white" opacity="0.03" />
+  
+  <text x="400" y="115" text-anchor="middle" font-family="'Inter', sans-serif" font-size="96" font-weight="900" fill="white" style="filter: drop-shadow(0 10px 15px rgba(0,0,0,1));">RITIK</text>
+  
+  <!-- Inverted Reflection Text -->
+  <text x="400" y="145" text-anchor="middle" font-family="'Inter', sans-serif" font-size="96" font-weight="900" fill="white" opacity="0.05" transform="scale(1,-0.3) translate(0,-550)">RITIK</text>
+  
+  <rect x="250" y="130" width="300" height="1" fill="white" opacity="0.2" />
+  <text x="400" y="160" text-anchor="middle" font-family="monospace" font-size="14" fill="#94a3b8" letter-spacing="10">REFLECTING ON DATA</text>
+</svg>

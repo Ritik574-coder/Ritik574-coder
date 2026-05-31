@@ -1,0 +1,14 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<defs><style>.b{animation:b 2s ease-in-out infinite alternate}@keyframes b{0%{opacity:.4}100%{opacity:1}}</style></defs>
+<rect width="800" height="200" fill="#060b14"/>
+<line x1="0" y1="50" x2="800" y2="50" stroke="#0d2a4a" stroke-width=".5"/><line x1="0" y1="100" x2="800" y2="100" stroke="#0d2a4a" stroke-width=".5"/><line x1="0" y1="150" x2="800" y2="150" stroke="#0d2a4a" stroke-width=".5"/>
+<line x1="100" y1="0" x2="100" y2="200" stroke="#0d2a4a" stroke-width=".5"/><line x1="250" y1="0" x2="250" y2="200" stroke="#0d2a4a" stroke-width=".5"/><line x1="400" y1="0" x2="400" y2="200" stroke="#0d2a4a" stroke-width=".5"/><line x1="550" y1="0" x2="550" y2="200" stroke="#0d2a4a" stroke-width=".5"/><line x1="700" y1="0" x2="700" y2="200" stroke="#0d2a4a" stroke-width=".5"/>
+<polyline points="20,50 70,50 70,100 140,100 140,50 210,50 210,150 300,150" fill="none" stroke="#00b4ff" stroke-width="1.5"/>
+<polyline points="660,50 730,50 730,100 780,100" fill="none" stroke="#00b4ff" stroke-width="1.5"/>
+<polyline points="480,150 530,150 530,100 620,100 620,50 680,50" fill="none" stroke="#0066aa" stroke-width="1"/>
+<circle cx="70" cy="50" r="4" fill="#00b4ff" class="b"/><circle cx="140" cy="50" r="4" fill="#00b4ff" class="b"/><circle cx="730" cy="50" r="4" fill="#00b4ff" class="b"/><circle cx="530" cy="100" r="3" fill="#0055aa" class="b"/>
+<rect x="284" y="136" width="30" height="30" rx="3" fill="none" stroke="#00b4ff" stroke-width="1.2"/>
+<text x="400" y="108" text-anchor="middle" font-family="'Courier New',monospace" font-size="52" font-weight="700" fill="#ffffff" letter-spacing="10">RITIK</text>
+<text x="400" y="136" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" fill="#00b4ff" letter-spacing="5">DEVELOPER · DATA ENGINEER · AI/ML</text>
+<text x="24" y="190" font-family="monospace" font-size="9" fill="#334455">SYS:ONLINE</text><text x="776" y="190" text-anchor="end" font-family="monospace" font-size="9" fill="#334455">v2025</text>
+</svg>

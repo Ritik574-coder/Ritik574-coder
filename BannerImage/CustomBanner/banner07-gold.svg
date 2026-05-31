@@ -1,0 +1,16 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="gbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0a0800"/><stop offset="100%" stop-color="#1a1200"/></linearGradient>
+<linearGradient id="gline" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#aa8800" stop-opacity="0"/><stop offset="30%" stop-color="#ffcc00"/><stop offset="70%" stop-color="#ffaa00"/><stop offset="100%" stop-color="#aa8800" stop-opacity="0"/></linearGradient>
+<linearGradient id="gtxt" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#ffe566"/><stop offset="50%" stop-color="#ffcc00"/><stop offset="100%" stop-color="#cc8800"/></linearGradient>
+</defs>
+<rect width="800" height="200" fill="url(#gbg)"/>
+<rect x="15" y="15" width="770" height="170" rx="4" fill="none" stroke="#aa8800" stroke-width="1" opacity=".6"/>
+<rect x="22" y="22" width="756" height="156" rx="3" fill="none" stroke="#664400" stroke-width=".5" opacity=".4"/>
+<text x="30" y="50" font-family="monospace" font-size="11" fill="#554400" letter-spacing="2">✦ ─────────────────────────────────────────────────────────────────────────── ✦</text>
+<text x="400" y="118" text-anchor="middle" font-family="Georgia,serif" font-size="66" font-weight="700" fill="url(#gtxt)" letter-spacing="16">RITIK</text>
+<rect x="160" y="132" width="480" height="1.5" fill="url(#gline)"/>
+<text x="400" y="160" text-anchor="middle" font-family="Georgia,serif" font-size="14" fill="#aa8822" letter-spacing="6">Developer  ·  Data Engineer  ·  AI/ML</text>
+<text x="400" y="182" text-anchor="middle" font-family="monospace" font-size="10" fill="#665500" letter-spacing="3">Crafting excellence · 2025</text>
+<text x="30" y="192" font-family="monospace" font-size="9" fill="#443300">✦</text><text x="770" y="192" text-anchor="end" font-family="monospace" font-size="9" fill="#443300">✦</text>
+</svg>

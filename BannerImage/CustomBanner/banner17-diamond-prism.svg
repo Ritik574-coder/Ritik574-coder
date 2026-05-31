@@ -1,0 +1,21 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="prism1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2ff" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#7000ff" stop-opacity="0.2" />
+    </linearGradient>
+    <linearGradient id="prism2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff0080" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#7000ff" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="#0f172a" />
+  <polygon points="0,0 400,0 200,200 0,200" fill="url(#prism1)" />
+  <polygon points="800,0 400,0 600,200 800,200" fill="url(#prism2)" />
+  <path d="M 400 0 L 200 200 L 600 200 Z" fill="white" opacity="0.05" />
+  
+  <text x="400" y="110" text-anchor="middle" font-family="'Inter', sans-serif" font-size="76" font-weight="900" fill="white" style="letter-spacing: 10px; filter: drop-shadow(0 0 10px rgba(255,255,255,0.5));">RITIK</text>
+  <rect x="300" y="125" width="200" height="2" fill="white" opacity="0.3" />
+  <text x="400" y="155" text-anchor="middle" font-family="monospace" font-size="14" fill="white" letter-spacing="5">CRYSTALLIZING DATA INSIGHTS</text>
+  <text x="400" y="175" text-anchor="middle" font-family="monospace" font-size="10" fill="#38bdf8" font-weight="bold">AI • ML • DATA ENGINEERING</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="liquidGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff0080" />
+      <stop offset="50%" stop-color="#7928ca" />
+      <stop offset="100%" stop-color="#ff4d4d" />
+    </linearGradient>
+    <filter id="goo">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur" />
+      <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="goo" />
+    </filter>
+    <style>
+      @keyframes morph {
+        0%, 100% { transform: translate(0,0) scale(1); }
+        33% { transform: translate(30px, -20px) scale(1.1); }
+        66% { transform: translate(-20px, 10px) scale(0.9); }
+      }
+      .blob { animation: morph 10s ease-in-out infinite; filter: url(#goo); }
+    </style>
+  </defs>
+  <rect width="800" height="200" fill="#050505" />
+  <g class="blob" opacity="0.6">
+    <circle cx="200" cy="100" r="80" fill="#ff0080" />
+    <circle cx="600" cy="80" r="90" fill="#7928ca" />
+    <circle cx="400" cy="150" r="70" fill="#ff4d4d" />
+  </g>
+  <rect width="800" height="200" fill="none" stroke="white" stroke-width="0.5" opacity="0.1" />
+  <text x="400" y="105" text-anchor="middle" font-family="'Inter', sans-serif" font-size="72" font-weight="900" fill="white" style="letter-spacing: -2px;">RITIK</text>
+  <text x="400" y="145" text-anchor="middle" font-family="monospace" font-size="14" fill="white" opacity="0.7" letter-spacing="5">DATA ENGINEER • AI • ML • ENTREPRENEUR</text>
+</svg>

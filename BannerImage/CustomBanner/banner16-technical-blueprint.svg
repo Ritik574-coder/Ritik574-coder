@@ -1,0 +1,26 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#1e3a8a" />
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="white" stroke-width="0.5" opacity="0.2"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="200" fill="url(#grid)" />
+  
+  <path d="M 40 40 L 760 40 L 760 160 L 40 160 Z" fill="none" stroke="white" stroke-width="1" stroke-dasharray="5,5" opacity="0.5" />
+  
+  <text x="60" y="110" font-family="'Courier New', monospace" font-size="80" font-weight="bold" fill="white" opacity="0.9">RITIK</text>
+  
+  <g transform="translate(450, 70)">
+    <text y="0" font-family="monospace" font-size="18" fill="white">Project: DATA_ENGINEER_V1</text>
+    <text y="25" font-family="monospace" font-size="12" fill="#93c5fd">Scale: 1:1000 AI/ML</text>
+    <text y="45" font-family="monospace" font-size="12" fill="#93c5fd">Subject: INNOVATION &amp; GROWTH</text>
+    <rect y="60" width="200" height="1" fill="white" opacity="0.5" />
+    <text y="80" font-family="monospace" font-size="10" fill="white" opacity="0.7">STATUS: ARCHITECTING FUTURE</text>
+  </g>
+  
+  <circle cx="40" cy="40" r="3" fill="white" />
+  <circle cx="760" cy="40" r="3" fill="white" />
+  <circle cx="760" cy="160" r="3" fill="white" />
+  <circle cx="40" cy="160" r="3" fill="white" />
+</svg>

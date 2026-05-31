@@ -1,0 +1,78 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1a1a1a"/>
+      <stop offset="50%" stop-color="#ff00ff"/>
+      <stop offset="100%" stop-color="#1a1a1a"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes pulse {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 0.8; }
+      }
+      @keyframes dataFlow {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-100%); }
+      }
+      .data-stream { animation: dataFlow 8s linear infinite; }
+      .pulse { animation: pulse 3s ease-in-out infinite; }
+      .flicker { animation: flicker 2s ease-in-out infinite; }
+      @keyframes flicker {
+        0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 0.9; }
+        20%, 24%, 55% { opacity: 0.4; }
+      }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#bgGrad)"/>
+  
+  <!-- Mysterious grid pattern -->
+  <g opacity="0.05">
+    <path d="M0,50 L800,50 M0,100 L800,100 M0,150 L800,150" stroke="#00ffff" stroke-width="0.5"/>
+    <path d="M100,0 L100,200 M200,0 L200,200 M300,0 L300,200 M400,0 L400,200 M500,0 L500,200 M600,0 L600,200 M700,0 L700,200" stroke="#00ffff" stroke-width="0.5"/>
+  </g>
+  
+  <!-- Floating cryptic symbols -->
+  <text x="150" y="40" font-family="monospace" font-size="18" fill="#00ffff" opacity="0.6" class="pulse">∞∑∏∮∯∰∱</text>
+  <text x="600" y="80" font-family="monospace" font-size="16" fill="#ff00ff" opacity="0.5" class="pulse">⟨ψ|∂/∂t|ψ⟩ = Ĥ|ψ⟩</text>
+  <text x="200" y="120" font-family="monospace" font-size="14" fill="#00ffff" opacity="0.4" class="pulse">01001000 01100001 01110010 01100100 01100010 01101001 01110100 01110010 00100000 01100101 01101110 01103111 01101010 01101001 01101110 01100101 01110010</text>
+  <text x="500" y="160" font-family="monospace" font-size="12" fill="#ff00ff" opacity="0.3" class="pulse">λx.λy.x y (λz.z) (λw.w)</text>
+  
+  <!-- Main title with glow effect -->
+  <text x="400" y="90" text-anchor="middle" font-family="'Orbitron', sans-serif" font-size="48" font-weight="800" fill="url(#textGrad)" filter="url(#glow)" class="flicker">RITIK</text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="120" text-anchor="middle" font-family="'Courier New', monospace" font-size="16" fill="#00ffff" opacity="0.8" letter-spacing="3">DATA ENGINEER • AI/ML RESEARCHER</text>
+  <text x="400" y="145" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#ff00ff" opacity="0.6" letter-spacing="2">EXPLORING THE UNKNOWN • DECODING REALITY</text>
+  
+  <!-- Data streams flowing -->
+  <g class="data-stream" opacity="0.1">
+    <rect x="0" y="30" width="800" height="2" fill="#00ffff"/>
+    <rect x="0" y="70" width="800" height="1.5" fill="#ff00ff"/>
+    <rect x="0" y="110" width="800" height="2" fill="#00ffff"/>
+    <rect x="0" y="150" width="800" height="1" fill="#ff00ff"/>
+    <rect x="0" y="180" width="800" height="1.5" fill="#00ffff"/>
+  </g>
+  
+  <!-- Corner markers -->
+  <rect x="0" y="0" width="60" height="3" fill="#ff00ff"/>
+  <rect x="0" y="0" width="3" height="60" fill="#ff00ff"/>
+  <rect x="740" y="0" width="60" height="3" fill="#00ffff"/>
+  <rect x="740" y="0" width="3" height="60" fill="#00ffff"/>
+  <rect x="0" y="197" width="60" height="3" fill="#ff00ff"/>
+  <rect x="0" y="197" width="3" height="3" fill="#ff00ff"/>
+  <rect x="740" y="197" width="60" height="3" fill="#00ffff"/>
+  <rect x="740" y="197" width="3" height="3" fill="#00ffff"/>
+</svg>

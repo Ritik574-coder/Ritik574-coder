@@ -1,0 +1,12 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#0c0202" />
+  
+  <!-- Gothic Borders -->
+  <rect x="20" y="20" width="760" height="160" fill="none" stroke="#450a0a" stroke-width="2" />
+  <path d="M 20 20 L 50 50 M 780 20 L 750 50 M 20 180 L 50 150 M 780 180 L 750 150" stroke="#450a0a" stroke-width="1" />
+  
+  <text x="400" y="110" text-anchor="middle" font-family="'Old English Text MT', serif" font-size="82" fill="#fecaca" style="filter: drop-shadow(0 0 10px #7f1d1d);">RITIK</text>
+  
+  <text x="400" y="145" text-anchor="middle" font-family="serif" font-size="16" fill="#7f1d1d" style="letter-spacing: 4px;">Data Engineer &amp; Alchemist of ML</text>
+  <text x="400" y="170" text-anchor="middle" font-family="monospace" font-size="10" fill="#450a0a" font-weight="bold">ESTABLISHED IN THE DARKNESS</text>
+</svg>

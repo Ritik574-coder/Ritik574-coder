@@ -1,0 +1,23 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d4af37" />
+      <stop offset="50%" stop-color="#f9e076" />
+      <stop offset="100%" stop-color="#d4af37" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="#000000" />
+  
+  <!-- Art Deco Patterns -->
+  <g stroke="url(#goldGrad)" fill="none" stroke-width="1" opacity="0.4">
+    <path d="M 0 0 L 100 100 L 0 200 M 10 0 L 110 100 L 10 200 M 20 0 L 120 100 L 20 200" />
+    <path d="M 800 0 L 700 100 L 800 200 M 790 0 L 690 100 L 790 200 M 780 0 L 680 100 L 780 200" />
+    <rect x="300" y="40" width="200" height="120" stroke-width="2" />
+    <rect x="310" y="50" width="180" height="100" stroke-width="1" />
+  </g>
+
+  <text x="400" y="115" text-anchor="middle" font-family="'Georgia', serif" font-size="64" font-weight="bold" fill="url(#goldGrad)" style="letter-spacing: 15px; text-transform: uppercase;">RITIK</text>
+  <text x="400" y="145" text-anchor="middle" font-family="'Georgia', serif" font-size="14" fill="url(#goldGrad)" style="letter-spacing: 5px;">DATA ENGINEER • AI • ML</text>
+  
+  <line x1="320" y1="122" x2="480" y2="122" stroke="url(#goldGrad)" stroke-width="0.5" />
+</svg>

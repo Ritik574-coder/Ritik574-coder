@@ -1,0 +1,11 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#e5e7eb" />
+  <rect x="0" y="0" width="800" height="200" fill="none" stroke="#111827" stroke-width="20" />
+  <text x="40" y="140" font-family="'Arial Black', sans-serif" font-size="120" font-weight="900" fill="#111827" style="letter-spacing: -8px;">RITIK</text>
+  <rect x="520" y="40" width="240" height="120" fill="#111827" />
+  <text x="540" y="80" font-family="monospace" font-size="16" font-weight="bold" fill="#e5e7eb">DATA ENGINEER</text>
+  <text x="540" y="105" font-family="monospace" font-size="12" fill="#9ca3af">AI / ML SPECIALIST</text>
+  <text x="540" y="130" font-family="monospace" font-size="12" fill="#9ca3af">ENTREPRENEURSHIP</text>
+  <rect x="40" y="155" width="460" height="10" fill="#ef4444" />
+  <text x="760" y="185" text-anchor="end" font-family="monospace" font-size="10" fill="#111827" font-weight="bold">V.2026 // SYSTEM_STABLE</text>
+</svg>

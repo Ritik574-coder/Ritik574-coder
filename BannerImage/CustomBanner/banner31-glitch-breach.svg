@@ -1,0 +1,29 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes jitter {
+        0% { transform: translate(0,0); }
+        10% { transform: translate(-2px, 2px); }
+        20% { transform: translate(2px, -2px); }
+        30% { transform: translate(0,0); }
+      }
+      .breach-text { animation: jitter 0.2s infinite; }
+    </style>
+  </defs>
+  <rect width="800" height="200" fill="#000000" />
+  <rect width="800" height="40" y="80" fill="#450a0a" opacity="0.2" />
+  
+  <g class="breach-text">
+    <text x="400" y="110" text-anchor="middle" font-family="'Arial Black', sans-serif" font-size="72" font-weight="900" fill="#ef4444" opacity="0.8">RITIK</text>
+  </g>
+  
+  <text x="400" y="110" text-anchor="middle" font-family="'Arial Black', sans-serif" font-size="72" font-weight="900" fill="white">RITIK</text>
+  
+  <g transform="translate(400, 145)">
+    <text text-anchor="middle" font-family="monospace" font-size="14" fill="#ef4444">WARNING: SYSTEM ANOMALY DETECTED</text>
+    <text text-anchor="middle" y="20" font-family="monospace" font-size="10" fill="#7f1d1d">DATA_ENGINEER // BREACH_PROTOCOL_ACTIVE</text>
+  </g>
+  
+  <rect x="0" y="0" width="800" height="2" fill="#ef4444" opacity="0.5" />
+  <rect x="0" y="198" width="800" height="2" fill="#ef4444" opacity="0.5" />
+</svg>

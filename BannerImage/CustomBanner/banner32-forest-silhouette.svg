@@ -1,0 +1,19 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="#061106" />
+  
+  <!-- Tree Silhouettes -->
+  <g fill="#020602">
+    <path d="M 50 200 L 100 100 L 150 200 Z" />
+    <path d="M 120 200 L 180 80 L 240 200 Z" />
+    <path d="M 600 200 L 680 90 L 760 200 Z" />
+    <path d="M 700 200 L 750 120 L 800 200 Z" />
+  </g>
+  
+  <!-- Fog Overlay -->
+  <rect width="800" height="200" fill="white" opacity="0.05" />
+  
+  <text x="400" y="110" text-anchor="middle" font-family="'Georgia', serif" font-size="64" font-weight="bold" fill="#ecfdf5" style="letter-spacing: 5px; opacity: 0.9;">RITIK</text>
+  <text x="400" y="145" text-anchor="middle" font-family="monospace" font-size="14" fill="#10b981" opacity="0.6">LOST IN THE DATA FOREST</text>
+  
+  <text x="400" y="170" text-anchor="middle" font-family="monospace" font-size="10" fill="#064e3b" letter-spacing="3">AI • ML • ENTREPRENEURSHIP</text>
+</svg>
