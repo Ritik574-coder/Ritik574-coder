@@ -1,0 +1,51 @@
+<svg width="100%" viewBox="0 0 680 180" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#020818"/>
+<stop offset="100%" stop-color="#0a0022"/>
+</linearGradient>
+<linearGradient id="aurora1" x1="0" y1="0" x2="0.4" y2="1">
+<stop offset="0%" stop-color="#00ff88" stop-opacity="0"/>
+<stop offset="45%" stop-color="#00ff88" stop-opacity="0.13"/>
+<stop offset="100%" stop-color="#00ff88" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="aurora2" x1="0" y1="0" x2="0.6" y2="1">
+<stop offset="0%" stop-color="#7700ff" stop-opacity="0"/>
+<stop offset="50%" stop-color="#7700ff" stop-opacity="0.18"/>
+<stop offset="100%" stop-color="#7700ff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="aurora3" x1="0" y1="0" x2="0.3" y2="1">
+<stop offset="0%" stop-color="#00aaff" stop-opacity="0"/>
+<stop offset="35%" stop-color="#00aaff" stop-opacity="0.12"/>
+<stop offset="100%" stop-color="#00aaff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="line1" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#00ff88" stop-opacity="0"/>
+<stop offset="30%" stop-color="#00ff88" stop-opacity="0.8"/>
+<stop offset="70%" stop-color="#7700ff" stop-opacity="0.8"/>
+<stop offset="100%" stop-color="#7700ff" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect width="680" height="180" fill="url(#bg)"/>
+<ellipse cx="160" cy="30" rx="220" ry="110" fill="url(#aurora1)" transform="rotate(-15,160,30)"/>
+<ellipse cx="400" cy="15" rx="240" ry="120" fill="url(#aurora2)" transform="rotate(8,400,15)"/>
+<ellipse cx="580" cy="40" rx="180" ry="90" fill="url(#aurora3)" transform="rotate(-20,580,40)"/>
+<circle cx="40" cy="22" r="1.2" fill="#fff" opacity="0.7"/>
+<circle cx="110" cy="14" r="0.8" fill="#fff" opacity="0.5"/>
+<circle cx="190" cy="30" r="1" fill="#fff" opacity="0.6"/>
+<circle cx="290" cy="10" r="1.3" fill="#fff" opacity="0.8"/>
+<circle cx="370" cy="25" r="0.7" fill="#fff" opacity="0.4"/>
+<circle cx="460" cy="8" r="1.1" fill="#fff" opacity="0.9"/>
+<circle cx="530" cy="32" r="0.8" fill="#fff" opacity="0.5"/>
+<circle cx="610" cy="16" r="1" fill="#fff" opacity="0.7"/>
+<circle cx="655" cy="42" r="0.7" fill="#fff" opacity="0.4"/>
+<circle cx="22" cy="55" r="0.6" fill="#fff" opacity="0.3"/>
+<circle cx="670" cy="60" r="0.8" fill="#fff" opacity="0.5"/>
+<text x="340" y="82" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="58" font-weight="700" fill="#ffffff" letter-spacing="10" opacity="0.97">RITIK</text>
+<rect x="120" y="94" width="440" height="1" fill="url(#line1)"/>
+<text x="340" y="120" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" fill="#88ddff" letter-spacing="4">Developer  ·  Data Engineer  ·  AI / ML</text>
+<text x="340" y="148" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#44aa77" letter-spacing="3" opacity="0.75">Building intelligent systems · One commit at a time</text>
+<rect x="0" y="174" width="680" height="6" fill="url(#line1)" opacity="0.5"/>
+<text x="24" y="168" font-family="monospace" font-size="9" fill="#334455" letter-spacing="1">github.com/Ritik</text>
+<text x="656" y="168" text-anchor="end" font-family="monospace" font-size="9" fill="#334455" letter-spacing="1">2025</text>
+</svg>
