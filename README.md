@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00cc,50:7700ff,100:00ffcc&height=200&text=Ritik&fontSize=60&fontColor=ffffff&stroke=ffffff&strokeWidth=2&animation=fadeIn&desc=Data%20Engineering%20%E2%80%A2%20AI%20%E2%80%A2%20ML&descFontColor=cccccc&descSize=18&descAlignY=72" />
+<img src="https://github.com/Ritik574-coder/Ritik574-coder/blob/main/BannerImage/CustomBanner/banner23-void-minimalism.svg" width="100%"/>
 </p>
 
 <br/>
