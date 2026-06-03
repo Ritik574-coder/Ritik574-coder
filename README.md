@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Ritik574-coder/Ritik574-coder/blob/main/BannerImage/CustomBanner/banner03-retrowave.svg" width="100%"/>
+<img src="https://github.com/Ritik574-coder/Ritik574-coder/blob/main/BannerImage/CustomBanner/banner06-glitch.svg" width="100%"/>
 </p>
 
 <br/>
