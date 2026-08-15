@@ -61,39 +61,9 @@ $ exit
 
 <div align="center">
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
 
 <br/>
   
-### 🏆 Key Metrics Dashboard
-
-<table>
-<tr>
-<td width="50%">
-
-<img
-  src="https://github-stats-extended.vercel.app/api?username=Ritik574-coder&show_icons=true&theme=radical&hide_border=true&custom_title=GitHub%20Statistics&title_color=00ffea&icon_color=ff007a&text_color=ffffff&bg_color=0a001f&border_radius=10"
-  alt="GitHub Statistics"
-  width="100%"
-/>
-
-</td>
-
-<td width="50%">
-
-<img src="https://streak-stats.demolab.com?user=Ritik574-coder&theme=radical&hide_border=true&border_radius=10&ring=00ffea&fire=ff007a&currStreakNum=00ffea&sideNums=ffffff&dates=aaaaaa&stroke=00ffea&currStreakLabel=00ffea&sideLabels=ffffff&background=0a001f" alt="Streak Stats" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-  
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
 
