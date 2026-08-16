@@ -2,6 +2,7 @@
 <img src="https://github.com/Ritik574-coder/Ritik574-coder/blob/main/BannerImage/CustomBanner/banner10-minimal.svg" width="100%"/>
 </p>
 
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
