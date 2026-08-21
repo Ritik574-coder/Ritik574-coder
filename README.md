@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">  
 <img src="https://github.com/Ritik574-coder/Ritik574-coder/blob/main/BannerImage/CustomBanner/banner10-minimal.svg" width="100%"/>
 </p>
 
