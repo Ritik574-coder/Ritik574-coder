@@ -36,20 +36,6 @@ $ exit
 
 <br/>
 
-## 💬 &nbsp;Dev Wisdom — Refreshes Every Visit
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
-
-<br/>
-
 ## 📊 GitHub Analytics & Performance Metrics
 
 <div align="center">
@@ -61,34 +47,6 @@ $ exit
 </div>
 
 <div align="center">
-
-
-<br/>
-  
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
-
-<br/>
-
-### 🎖️ Achievement Showcase
-
-<img
-  src="https://trophy.benkou.dev/?username=Ritik574-coder&theme=radical&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&title=Commits,PullRequest,Issues,Reviews"
-  width="90%"
-/>
-  
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
-
-<br/>
-  
-### 📅 Activity Overview
-
-<div align="center" style="margin: 28px 0;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ritik574-coder&theme=github_dark&hide_title=true" alt="Language Distribution" width="46%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.4);"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ritik574-coder&theme=github_dark&hide_title=true" alt="Primary Languages" width="46%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(15, 23, 42, 0.4);"/>
-</div>
 
 <br/>
 
@@ -160,22 +118,15 @@ $ exit
 
 <br/>
 
+## Ritik's Contribution Graph
 
-## 🔬 Technical Blog & Knowledge Sharing
-
-> *Coming Soon — launching on Medium and Dev.to*
-
-**Planned Topics:** ETL with Airflow · Python Best Practices · Azure Synapse Architecture · Advanced DAX · ML in Pipelines · Kafka Streaming
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ritik574-coder/Ritik574-coder/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+  <br/>
+  <sub><i>your real contribution calendar, rendered in 3D — refreshed daily</i></sub>
+</div>
 
 <br/>
-
-## 🌐 Open Source Contributions
-
-Actively working to contribute to data engineering tools, Python libraries, BI templates, and educational documentation.
 
 <br/>
 
