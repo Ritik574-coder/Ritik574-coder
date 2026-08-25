@@ -225,6 +225,12 @@ $ exit
 
 </div>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=3&section=header" width="100%"/>
+
+<br/>
+
 
 ## 📜 Repository Statistics
 
